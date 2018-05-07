@@ -16,7 +16,7 @@
 const http = require('http');
 
 const host = 'api.worldweatheronline.com';
-const wwoApiKey = '';
+const wwoApiKey = '45d5679ebd6345f8a15132804180705';
 
 exports.dialogflowWeatherWebhook = (req, res) => {
   // Get the city and date from the request
