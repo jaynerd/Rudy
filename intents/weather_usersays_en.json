@@ -1,0 +1,102 @@
+[
+  {
+    "id": "4c364efd-6d7b-44c3-b7a3-782d24c8ff08",
+    "data": [
+      {
+        "text": "Weather forecast in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525700977
+  },
+  {
+    "id": "f62f9f48-24a2-4713-80f7-c89e98965525",
+    "data": [
+      {
+        "text": "Weather for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525700977
+  },
+  {
+    "id": "34122b9d-aef5-4be2-8cb4-a5d90836e733",
+    "data": [
+      {
+        "text": "What is the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525700977
+  },
+  {
+    "id": "a9472021-ad01-4cc9-bb0c-c8418a778b61",
+    "data": [
+      {
+        "text": "Weather forecast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525700977
+  },
+  {
+    "id": "5e71dd2a-a7d4-424e-95ea-9e182b74b257",
+    "data": [
+      {
+        "text": "What is the weather supposed to be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525700977
+  },
+  {
+    "id": "c2b42f16-8e40-45c1-84c0-aa194be31b4e",
+    "data": [
+      {
+        "text": "What is the weather like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525700977
+  }
+]
