@@ -18,9 +18,9 @@ const http = require('http');
 const host = 'api.worldweatheronline.com';
 const wwoApiKey = '45d5679ebd6345f8a15132804180705';
 
-exports.dialogflowWeatherWebhook = (req, res) => {
+exports.academicAdviceWebhook = (req, res) => {
   // Get the city and date from the request
-  let city = req.body.queryResult.parameters['geo-city']; // city is a required param
+  let city = req.body.queryResult.parameters['paper']; // city is a required param
 
   // Get the date for the weather forecast (if present)
   let date = '';
@@ -28,13 +28,15 @@ exports.dialogflowWeatherWebhook = (req, res) => {
     date = req.body.queryResult.parameters['date'];
     console.log('Date: ' + date);
   }
+  
+res.json({ 'fulfillmentText': city });
 
   // Call the weather API
-  callWeatherApi(city, date).then((output) => {
+ // callWeatherApi(city, date).then((output) => {
     res.json({ 'fulfillmentText': output }); // Return the results of the weather API to Dialogflow
-  }).catch(() => {
-    res.json({ 'fulfillmentText': `I don't know the weather but I hope it's good!` });
-  });
+ // }).catch(() => {
+ //   res.json({ 'fulfillmentText': `I don't know the weather but I hope it's good!` });
+ // });
 };
 
 function callWeatherApi (city, date) {
