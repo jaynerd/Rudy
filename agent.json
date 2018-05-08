@@ -1,10 +1,14 @@
 {
   "description": "",
   "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
   "disableInteractionLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": false,
-    "welcomeIntentSignInRequired": false,
+    "welcomeIntentSignInRequired": true,
     "startIntents": [],
     "systemIntents": [],
     "endIntentIds": [],

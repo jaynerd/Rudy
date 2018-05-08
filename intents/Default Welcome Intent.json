@@ -23,11 +23,14 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525702463,
+  "lastUpdate": 1525785732,
   "fallbackIntent": false,
   "events": [
     {
       "name": "WELCOME"
+    },
+    {
+      "name": "SLACK_WELCOME"
     }
   ]
 }
