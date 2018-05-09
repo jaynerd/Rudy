@@ -1,50 +1,37 @@
-// Copyright 2017, Google, Inc.
-// Licensed under the Apache License, Version 2.0 (the 'License');
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-//
-//    http://www.apache.org/licenses/LICENSE-2.0
-//
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an 'AS IS' BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
-
 'use strict';
 
-const http = require('http');
-
-const host = 'api.worldweatheronline.com';
-const wwoApiKey = '45d5679ebd6345f8a15132804180705';
-
-exports.academicAdviceWebhook = (req, res) => {
-  // Get the city and date from the request
-  let city = req.body.queryResult.parameters['paper']; // city is a required param
-
-  // Get the date for the weather forecast (if present)
-  let date = '';
-  if (req.body.queryResult.parameters['date']) {
-    date = req.body.queryResult.parameters['date'];
-    console.log('Date: ' + date);
+exports.requirementAdvice = (request, response) => {
+	
+  // Get the paper code from the request
+  let paper = request.body.queryResult.parameters['paper']; // paper is a required param
+  
+  // Get the requirement from the request
+  let requirement = '';
+  if (request.body.queryResult.parameters['requirement']) {
+    requirement = request.body.queryResult.parameters['requirement'];
   }
   
-res.json({ 'fulfillmentText': city });
-
-  // Call the weather API
- // callWeatherApi(city, date).then((output) => {
-    res.json({ 'fulfillmentText': output }); // Return the results of the weather API to Dialogflow
- // }).catch(() => {
- //   res.json({ 'fulfillmentText': `I don't know the weather but I hope it's good!` });
- // });
+  let requirement1 = '';
+  if (request.body.queryResult.parameters['requirement1']){
+	  requirement1 = request.body.queryResult.parameters['requirement1'];
+  }
+  
+  // Call get requirement
+  getRequirement(paper, requirement, requirement1).then((output) => {
+	  response.json({ 'fulfillmentText': output }); // Return the results of the getRequirement function to Dialogflow
+  }).catch(() => {
+	  response.json({ 'fulfillmentText': 'Unable to process your request. Please try with different sentence structures.' });
+  });
 };
 
-function callWeatherApi (city, date) {
+function getRequirement (paper, requirement, requirement1) {
+	return new Promise((resolve, reject) => {
+		
+	});
+}
+/* function callWeatherApi (city, date) {
   return new Promise((resolve, reject) => {
-    // Create the path for the HTTP request to get the weather
-    let path = '/premium/v1/weather.ashx?format=json&num_of_days=1' +
-      '&q=' + encodeURIComponent(city) + '&key=' + wwoApiKey + '&date=' + date;
-    console.log('API Request: ' + host + path);
+
 
     // Make the HTTP request to get the weather
     http.get({host: host, path: path}, (res) => {
@@ -75,5 +62,5 @@ function callWeatherApi (city, date) {
       });
     });
   });
-}
+} */
     
