@@ -1,2 +1,4 @@
 "# Rudy" 
-Change 1
+
+An AUT Academic Advising Bot.
+Used Dialog flow integrated with Slack, Firebase.
