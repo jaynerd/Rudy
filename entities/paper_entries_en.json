@@ -1,10 +1,29 @@
 [
   {
-    "value": "Paper",
+    "value": "COMP713",
     "synonyms": [
-      "Paper",
-      "Class",
-      "Subject"
+      "COMP713",
+      "COMP 713",
+      "Distributed and Mobile Systems",
+      "DSM"
+    ]
+  },
+  {
+    "value": "ENSE701",
+    "synonyms": [
+      "ENSE701",
+      "ENSE 701",
+      "Contemporary Methods in Software Engineering",
+      "CMSE"
+    ]
+  },
+  {
+    "value": "COMP603",
+    "synonyms": [
+      "COMP603",
+      "COMP 603",
+      "Program Design and Construction",
+      "PDC"
     ]
   }
 ]

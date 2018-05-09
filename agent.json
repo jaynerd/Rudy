@@ -1,11 +1,12 @@
 {
-  "description": "",
+  "description": "AUT Academic Advising Chatbot",
   "language": "en",
   "activeAssistantAgents": [
     "smalltalk-domain-on",
     "smalltalk-fulfillment-on"
   ],
   "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": false,
     "welcomeIntentSignInRequired": true,
@@ -23,7 +24,7 @@
   },
   "defaultTimezone": "Pacific/Fiji",
   "webhook": {
-    "url": "https://us-central1-rudy-b5e54.cloudfunctions.net/dialogflowWeatherWebhook",
+    "url": "https://us-central1-rudy-b5e54.cloudfunctions.net/academicAdviceWebhook",
     "headers": {
       "": ""
     },

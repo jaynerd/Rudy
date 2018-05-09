@@ -1,0 +1,26 @@
+[
+  {
+    "value": "pre-requisite",
+    "synonyms": [
+      "pre-requisite",
+      "prerequisite",
+      "pre requisite",
+      "prereq",
+      "pre req",
+      "prerequirement",
+      "pre requirement"
+    ]
+  },
+  {
+    "value": "co-requisite",
+    "synonyms": [
+      "co-requisite",
+      "corequisite",
+      "co requisite",
+      "coreq",
+      "co req",
+      "corequirement",
+      "co requirement"
+    ]
+  }
+]

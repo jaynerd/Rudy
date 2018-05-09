@@ -1,0 +1,48 @@
+[
+  {
+    "id": "a4806095-db29-4d60-b743-d00ab4530b30",
+    "data": [
+      {
+        "text": "Do you like sports?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525822092
+  },
+  {
+    "id": "542d5264-dcde-4b58-b712-f26607cea313",
+    "data": [
+      {
+        "text": "What is your favorite sport?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525822092
+  },
+  {
+    "id": "b6e627d3-99c7-47df-aed3-2d231bd48af2",
+    "data": [
+      {
+        "text": "Do you like ",
+        "userDefined": false
+      },
+      {
+        "text": "football",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525822092
+  }
+]

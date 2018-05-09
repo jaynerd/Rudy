@@ -1,0 +1,39 @@
+{
+  "id": "7eab2dfb-ee3a-4e1a-9c03-0ee4b5113c69",
+  "name": "01_Default Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! I\u0027m Rudy, the famous AUT academic advising chatbot created by the \"team_31\". You can ask me questions like \"What are pre-requisites for [specific paper]?\" to get some helpful information.",
+            "Hi! I\u0027m Rudy, an academic advising chatbot of AUT, developed by the \"team_31\". You can say things like \"Which papers are suitable for a [specific job]?\" to get some helpful information.",
+            "Hi! I\u0027m Rudy. I was named after Ruby, a BCIS academic adviser at AUT. You can ask me questions like \"What would be a suggested set of papers for the [specific major]?\" to get some helpful information."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525827269,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "SLACK_WELCOME"
+    }
+  ]
+}
