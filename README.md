@@ -2,12 +2,12 @@
 
 Rudy is an AUT Academic Advising ChatBot
 
-Main Framework: Dialogflow
+Main Framework: Dialogflow </br>
 
-Front End & UI: Slack
+Front End & UI: Slack </br>
 
-Back End & Version Control: Github, Heroku
+Back End & Version Control: Github, Heroku </br>
 
-Scraper: Arion Scraper
+Scraper: Arion Scraper </br>
 
-Database: Firebase
+Database: Firebase </br>
