@@ -1,4 +1,9 @@
 "# Rudy" 
 
-An AUT Academic Advising Bot.
-Used Dialog flow integrated with Slack, Firebase.
+Rudy is an AUT Academic Advising ChatBot
+
+Main Framework: Dialogflow
+Front End & UI: Slack
+Back End & Version Control: Github, Heroku
+Scraper: Arion Scraper
+Database: Firebase
