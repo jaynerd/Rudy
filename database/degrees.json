@@ -240,7 +240,7 @@
         "Master of Arts": {
             "PACS804": 
                 {
-                    "name": "(Representation and Representation of the Pacific in Journalism and the Media"
+                    "name": "(Re)presentation and Representation of the Pacific in Journalism and the Media"
                 }
             ,
             "SOSC882": 
@@ -260,7 +260,7 @@
             ,
             "PSYC897": 
                 {
-                    "name": "BA Hons Psychology Dissertation"
+                    "name": "BA (Hons) Psychology Dissertation"
                 }
             ,
             "POLS886": 
@@ -604,7 +604,7 @@
                 }
             
         },
-        "Master of Arts Management": {
+        "Master of Arts 1": {
             "CLSY614": 
                 {
                     "name": "International Exchange 6/45"
@@ -617,7 +617,7 @@
             ,
             "PACS804": 
                 {
-                    "name": "(Representation and Representation of the Pacific in Journalism and the Media"
+                    "name": "(Re)presentation and Representation of the Pacific in Journalism and the Media"
                 }
             ,
             "ECON880": 
@@ -836,7 +836,7 @@
                 }
             
         },
-        "Master of Business": {
+        "Master of Arts Management": {
             "149122": 
                 {
                     "name": "Critiquing Creative Organisations"
@@ -908,7 +908,7 @@
                 }
             
         },
-        "Master of Business Administration": {
+        "Master of Business": {
             "ACCT809": 
                 {
                     "name": "Accounting for Strategic Decision Making"
@@ -1420,7 +1420,7 @@
                 }
             
         },
-        "Master of Communication Studies": {
+        "Master of Business Administration": {
             "ACCT840": 
                 {
                     "name": "Accounting for Managers"
@@ -1443,7 +1443,7 @@
             ,
             "BUSS844": 
                 {
-                    "name": "BUSS MBA International Exchange 8/22_5"
+                    "name": "BUSS MBA International Exchange 8/22.5"
                 }
             ,
             "BUSS843": 
@@ -1453,7 +1453,7 @@
             ,
             "BUSS842": 
                 {
-                    "name": "BUSS MBA International Exchange 8/37_5"
+                    "name": "BUSS MBA International Exchange 8/37.5"
                 }
             ,
             "BUSS841": 
@@ -1767,7 +1767,7 @@
                 }
             
         },
-        "Master of Computer and Information Sciences": {
+        "Master of Communication Studies": {
             "COMM803": 
                 {
                     "name": "A Political Economy Approach to the Media"
@@ -2039,7 +2039,7 @@
                 }
             
         },
-        "Master of Construction Management": {
+        "Master of Computer and Information Sciences": {
             "COMP801": 
                 {
                     "name": "3D Technologies: Displays to Printing"
@@ -2216,7 +2216,7 @@
                 }
             
         },
-        "Master of Creative Technologies": {
+        "Master of Computer and Information Sciences 2": {
             "COMP801": 
                 {
                     "name": "3D Technologies: Displays to Printing"
@@ -2393,7 +2393,7 @@
                 }
             
         },
-        "Master of Creative Writing": {
+        "Master of Construction Management": {
             "ENBU814": 
                 {
                     "name": "Advanced Built Environment"
@@ -2495,7 +2495,7 @@
                 }
             
         },
-        "Master of Cultural and Creative Practice": {
+        "Master of Creative Technologies": {
             "CTEC805": 
                 {
                     "name": "Embodiment"
@@ -2547,8 +2547,8 @@
                 }
             
         },
-        "Master of Design": {},
-        "Master of Education": {
+        "Master of Creative Writing": {},
+        "Master of Cultural and Creative Practice": {
             "ARDN808": 
                 {
                     "name": "Contextual Review "
@@ -2605,7 +2605,7 @@
                 }
             
         },
-        "Master of Education Practice": {
+        "Master of Design": {
             "ARDN807": 
                 {
                     "name": "Coding for Artists and Designers"
@@ -2717,7 +2717,7 @@
                 }
             
         },
-        "Master of Educational Leadership": {
+        "Master of Education": {
             "EDUC842": 
                 {
                     "name": "Building Mentoring Expertise"
@@ -2825,7 +2825,7 @@
             ,
             "EDUC836": 
                 {
-                    "name": "Learning Environments for the 21st Century_ "
+                    "name": "Learning Environments for the 21st Century. "
                 }
             ,
             "EDUC804": 
@@ -2929,7 +2929,7 @@
                 }
             
         },
-        "Master of Emergency Management": {
+        "Master of Education Practice": {
             "EDUC808": 
                 {
                     "name": "Concepts and Constructs in Education"
@@ -2971,7 +2971,7 @@
                 }
             
         },
-        "Master of Engineering": {
+        "Master of Educational Leadership": {
             "EDUC824": 
                 {
                     "name": "Educational Futures - Part 1: The Theory"
@@ -3043,7 +3043,7 @@
                 }
             
         },
-        "Master of Engineering Project Management": {
+        "Master of Emergency Management": {
             "588302": 
                 {
                     "name": "Advanced Resuscitation"
@@ -3151,7 +3151,7 @@
             ,
             "589597": 
                 {
-                    "name": "90-PT Thesis HEALTH)"
+                    "name": "90-PT Thesis (HEALTH)"
                 }
             ,
             "589598": 
@@ -3165,7 +3165,7 @@
                 }
             
         },
-        "Master of English and New Media Studies": {
+        "Master of Emergency Management 3": {
             "EMGT804": 
                 {
                     "name": "Building Resilient Communities"
@@ -3232,7 +3232,7 @@
                 }
             
         },
-        "Master of Forensic Information Technology": {
+        "Master of Engineering": {
             "ENME811": 
                 {
                     "name": "Advanced CAD/CAM Applications"
@@ -3444,7 +3444,7 @@
                 }
             
         },
-        "Master of Gastronomy": {
+        "Master of Engineering Project Management": {
             "ENGE813": 
                 {
                     "name": "Advanced Integrated Project Management"
@@ -3516,7 +3516,7 @@
                 }
             
         },
-        "Master of Geographic Information Science": {
+        "Master of English and New Media Studies": {
             "EDUC831": 
                 {
                     "name": "Adult Literacy: Contemporary Perspectives"
@@ -3593,7 +3593,7 @@
                 }
             
         },
-        "Master of Global Business": {
+        "Master of Forensic Information Technology": {
             "COMP809": 
                 {
                     "name": "Data Mining and Machine Learning"
@@ -3685,7 +3685,7 @@
                 }
             
         },
-        "Master of Health Informatics": {
+        "Master of Gastronomy": {
             "GAST804": 
                 {
                     "name": "Critical Gastronomy"
@@ -3732,7 +3732,7 @@
                 }
             
         },
-        "Master of Health Practice": {
+        "Master of Geographic Information Science": {
             "GISC403": 
                 {
                     "name": "Cartography and Geovisualisation"
@@ -3745,7 +3745,7 @@
             ,
             "GISC411": 
                 {
-                    "name": "Geographic Information Science GIS in Health"
+                    "name": "Geographic Information Science (GIS) in Health"
                 }
             ,
             "GISC404": 
@@ -3799,7 +3799,7 @@
                 }
             
         },
-        "Master of Health Science": {
+        "Master of Global Business": {
             "ECON861": 
                 {
                     "name": "Economics for Business"
@@ -3851,7 +3851,7 @@
                 }
             
         },
-        "Master of Human Rights": {
+        "Master of Health Informatics": {
             "COMP813": 
                 {
                     "name": "Artificial Intelligence"
@@ -3913,8 +3913,8 @@
                 }
             
         },
-        "Master of Information Security and Digital Forensics": {},
-        "Master of International Hospitality Management": {
+        "Master of Health Practice": {},
+        "Master of Health Science": {
             "HEAL844": 
                 {
                     "name": "Activity, Health and Nutrition for Older Persons"
@@ -4291,7 +4291,7 @@
                 }
             
         },
-        "Master of International Tourism Management": {
+        "Master of Human Rights": {
             "SOSC804": 
                 {
                     "name": "Human Rights Communication and Advocacy: Theory and Practice"
@@ -4328,7 +4328,7 @@
                 }
             
         },
-        "Master of Laws": {
+        "Master of Information Security and Digital Forensics": {
             "COMP816": 
                 {
                     "name": "Autoidentification"
@@ -4395,7 +4395,7 @@
                 }
             
         },
-        "Master of Maori and Indigenous Business": {
+        "Master of International Hospitality Management": {
             "TOUR811": 
                 {
                     "name": "Applied Research Methods"
@@ -4557,7 +4557,7 @@
                 }
             
         },
-        "Master of Marketing": {
+        "Master of International Tourism Management": {
             "TOUR811": 
                 {
                     "name": "Applied Research Methods"
@@ -4714,7 +4714,7 @@
                 }
             
         },
-        "Master of Medical Laboratory Science": {
+        "Master of Laws": {
             "LAWS826": 
                 {
                     "name": "Double Tax Treaties"
@@ -5196,7 +5196,7 @@
                 }
             
         },
-        "Master of Performance and Media Arts": {
+        "Master of Maori and Indigenous Business": {
             "MAIB812": 
                 {
                     "name": "Business Communication"
@@ -5258,7 +5258,7 @@
                 }
             
         },
-        "Master of Philosophy": {
+        "Master of Marketing": {
             "ACCT868": 
                 {
                     "name": "Accounting for Financial and Managerial Decision Making "
@@ -5310,7 +5310,7 @@
                 }
             
         },
-        "Master of Professional Accounting": {
+        "Master of Medical Laboratory Science": {
             "HEAL825": 
                 {
                     "name": "Applied Health Care Ethics"
@@ -5377,7 +5377,7 @@
                 }
             
         },
-        "Master of Professional Language Studies": {
+        "Master of Performance and Media Arts": {
             "119104": 
                 {
                     "name": "Emerging Paradigms of Performance"
@@ -5424,7 +5424,7 @@
                 }
             
         },
-        "Master of Psychotherapy": {
+        "Master of Philosophy": {
             "309000": 
                 {
                     "name": "MPhil Thesis / Business Super Paper"
@@ -5432,7 +5432,7 @@
             ,
             "579003": 
                 {
-                    "name": "MPhil Thesis Appld Env Sci - Funded Extension 0_25"
+                    "name": "MPhil Thesis Appld Env Sci - Funded Extension 0.25"
                 }
             ,
             "579000": 
@@ -5541,7 +5541,7 @@
                 }
             
         },
-        "Master of Public Health": {
+        "Master of Professional Accounting": {
             "ACCT863": 
                 {
                     "name": "Accounting Information Systems"
@@ -5613,7 +5613,7 @@
                 }
             
         },
-        "Master of Science": {
+        "Master of Professional Language Studies": {
             "LNGT802": 
                 {
                     "name": "Curriculum Design and Assessment"
@@ -5660,7 +5660,7 @@
                 }
             
         },
-        "Master of Science Research)": {
+        "Master of Psychotherapy": {
             "PSYT835": 
                 {
                     "name": "Assessment and Formulation of Children and Adolescents"
@@ -5767,7 +5767,7 @@
                 }
             
         },
-        "Master of Service-Oriented Computing": {
+        "Master of Public Health": {
             "COMH814": 
                 {
                     "name": "Building Sustainable Communities"
@@ -5899,7 +5899,7 @@
                 }
             
         },
-        "Master of Social Innovation": {
+        "Master of Science": {
             "COMP827": 
                 {
                     "name": "Advanced Computer Graphics"
@@ -6026,7 +6026,7 @@
                 }
             
         },
-        "Master of Sport and Exercise": {
+        "Master of Science 4": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -6348,7 +6348,7 @@
                 }
             
         },
-        "Master of Teaching and Learning": {
+        "Master of Science 5": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -6680,7 +6680,7 @@
                 }
             
         },
-        "Master of Visual Arts": {
+        "Master of Science (Research)": {
             "COMP827": 
                 {
                     "name": "Advanced Computer Graphics"
@@ -6833,21 +6833,21 @@
             ,
             "719008": 
                 {
-                    "name": "Thesis Extension 0_167 EFTS"
+                    "name": "Thesis Extension 0.167 EFTS"
                 }
             ,
             "719007": 
                 {
-                    "name": "Thesis Extension 0_25 EFTS"
+                    "name": "Thesis Extension 0.25 EFTS"
                 }
             ,
             "719006": 
                 {
-                    "name": "Thesis Extension 0_5 EFTS"
+                    "name": "Thesis Extension 0.5 EFTS"
                 }
             
         },
-        "Postgraduate Diploma in Applied Finance": {
+        "Master of Science (Research) 6": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -7169,7 +7169,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Applied Science": {
+        "Master of Science (Research) 7": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -7476,7 +7476,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Arts": {
+        "Master of Service-Oriented Computing": {
             "INFS803": 
                 {
                     "name": "Cloud Computing"
@@ -7558,7 +7558,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Brand Communication": {
+        "Master of Social Innovation": {
             "SOIN803": 
                 {
                     "name": "People, Systems and Dynamics "
@@ -7590,7 +7590,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Business": {
+        "Master of Sport and Exercise": {
             "SPMG801": 
                 {
                     "name": "Advanced Sport Development"
@@ -7722,7 +7722,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Business Administration": {
+        "Master of Teaching and Learning": {
             "EDCR801": 
                 {
                     "name": "Ako: Teaching and Learning"
@@ -7754,7 +7754,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Clinical Child and Adolescent Psychotherapy": {
+        "Master of Visual Arts": {
             "ARDN802": 
                 {
                     "name": "Directed Studies Project"
@@ -7801,7 +7801,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Communication Studies": {
+        "Postgraduate Diploma in Applied Finance": {
             "ACCT868": 
                 {
                     "name": "Accounting for Financial and Managerial Decision Making "
@@ -7848,7 +7848,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Computer and Information Sciences": {
+        "Postgraduate Diploma in Applied Science": {
             "778040": 
                 {
                     "name": "Applications of Geographical Information Systems"
@@ -7895,10 +7895,10 @@
                 }
             
         },
-        "Postgraduate Diploma in Counselling Psychology": {
+        "Postgraduate Diploma in Arts": {
             "PACS804": 
                 {
-                    "name": "(Representation and Representation of the Pacific in Journalism and the Media"
+                    "name": "(Re)presentation and Representation of the Pacific in Journalism and the Media"
                 }
             ,
             "SOSC882": 
@@ -8182,10 +8182,10 @@
                 }
             
         },
-        "Postgraduate Diploma in Education": {
+        "Postgraduate Diploma in Arts 8": {
             "PACS804": 
                 {
-                    "name": "(Representation and Representation of the Pacific in Journalism and the Media"
+                    "name": "(Re)presentation and Representation of the Pacific in Journalism and the Media"
                 }
             ,
             "PACS801": 
@@ -8339,7 +8339,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Education Practice": {
+        "Postgraduate Diploma in Brand Communication": {
             "ADVT882": 
                 {
                     "name": "Brand Communication Project"
@@ -8376,7 +8376,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Emergency Management": {
+        "Postgraduate Diploma in Business": {
             "ACCT809": 
                 {
                     "name": "Accounting for Strategic Decision Making"
@@ -8823,7 +8823,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Engineering": {
+        "Postgraduate Diploma in Business Administration": {
             "ACCT840": 
                 {
                     "name": "Accounting for Managers"
@@ -9075,7 +9075,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Gastronomy": {
+        "Postgraduate Diploma in Clinical Child and Adolescent Psychotherapy": {
             "588885": 
                 {
                     "name": "Child and Adolescent Psychotherapy Practice I"
@@ -9107,7 +9107,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Geographic Information Science": {
+        "Postgraduate Diploma in Communication Studies": {
             "COMM803": 
                 {
                     "name": "A Political Economy Approach to the Media"
@@ -9155,27 +9155,27 @@
             ,
             "PUBL897": 
                 {
-                    "name": "Creative Practice Communication and Public Relations)"
+                    "name": "Creative Practice (Communication and Public Relations)"
                 }
             ,
             "DIGM897": 
                 {
-                    "name": "Creative Practice Digital Media)"
+                    "name": "Creative Practice (Digital Media)"
                 }
             ,
             "JOUR897": 
                 {
-                    "name": "Creative Practice Journalism)"
+                    "name": "Creative Practice (Journalism)"
                 }
             ,
             "RADC897": 
                 {
-                    "name": "Creative Practice Radio)"
+                    "name": "Creative Practice (Radio)"
                 }
             ,
             "TVSP897": 
                 {
-                    "name": "Creative Practice Screen Production)"
+                    "name": "Creative Practice (Screen Production)"
                 }
             ,
             "CIND801": 
@@ -9399,7 +9399,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Global Business": {
+        "Postgraduate Diploma in Computer and Information Sciences": {
             "COMP801": 
                 {
                     "name": "3D Technologies: Displays to Printing"
@@ -9561,7 +9561,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Health Science": {
+        "Postgraduate Diploma in Counselling Psychology": {
             "PSYC814": 
                 {
                     "name": "Counselling Psychology Internship A"
@@ -9583,7 +9583,7 @@
                 }
             
         },
-        "Postgraduate Diploma in International Hospitality Management": {
+        "Postgraduate Diploma in Education": {
             "EDUC812": 
                 {
                     "name": "Contemporary Issues in Education"
@@ -9695,7 +9695,7 @@
                 }
             
         },
-        "Postgraduate Diploma in International Tourism Management": {
+        "Postgraduate Diploma in Education Practice": {
             "EDUC808": 
                 {
                     "name": "Concepts and Constructs in Education"
@@ -9732,7 +9732,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Maori and Indigenous Business ": {
+        "Postgraduate Diploma in Emergency Management": {
             "EMGT804": 
                 {
                     "name": "Building Resilient Communities"
@@ -9784,7 +9784,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Marketing": {
+        "Postgraduate Diploma in Engineering": {
             "ENME811": 
                 {
                     "name": "Advanced CAD/CAM Applications"
@@ -9927,12 +9927,12 @@
             ,
             "ENEL895": 
                 {
-                    "name": "Industrial Project Electrical)"
+                    "name": "Industrial Project (Electrical)"
                 }
             ,
             "ENME895": 
                 {
-                    "name": "Industrial Project Mechanical)"
+                    "name": "Industrial Project (Mechanical)"
                 }
             ,
             "ENGE803": 
@@ -10046,7 +10046,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Medical Laboratory Science": {
+        "Postgraduate Diploma in Gastronomy": {
             "GAST804": 
                 {
                     "name": "Critical Gastronomy"
@@ -10083,7 +10083,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Performance and Media Arts": {
+        "Postgraduate Diploma in Geographic Information Science": {
             "GISC403": 
                 {
                     "name": "Cartography and Geovisualisation"
@@ -10096,7 +10096,7 @@
             ,
             "GISC411": 
                 {
-                    "name": "Geographic Information Science GIS in Health"
+                    "name": "Geographic Information Science (GIS) in Health"
                 }
             ,
             "GISC404": 
@@ -10150,7 +10150,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Professional Accounting": {
+        "Postgraduate Diploma in Global Business": {
             "ECON861": 
                 {
                     "name": "Economics for Business"
@@ -10197,8 +10197,8 @@
                 }
             
         },
-        "Postgraduate Diploma in Public Health": {},
-        "Postgraduate Diploma in Registered Nurse Prescribing": {
+        "Postgraduate Diploma in Health Science": {},
+        "Postgraduate Diploma in International Hospitality Management": {
             "TOUR811": 
                 {
                     "name": "Applied Research Methods"
@@ -10335,7 +10335,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Science": {
+        "Postgraduate Diploma in International Tourism Management": {
             "HOSP801": 
                 {
                     "name": "Contemporary Topic in Hospitality"
@@ -10462,7 +10462,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Social Innovation": {
+        "Postgraduate Diploma in Maori and Indigenous Business ": {
             "MAIB812": 
                 {
                     "name": "Business Communication"
@@ -10529,7 +10529,7 @@
                 }
             
         },
-        "Postgraduate Diploma in Sport and Exercise": {
+        "Postgraduate Diploma in Marketing": {
             "ACCT868": 
                 {
                     "name": "Accounting for Financial and Managerial Decision Making "
@@ -10571,7 +10571,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Advanced Nursing Practice": {
+        "Postgraduate Diploma in Medical Laboratory Science": {
             "HEAL825": 
                 {
                     "name": "Applied Health Care Ethics"
@@ -10638,7 +10638,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Applied Science": {
+        "Postgraduate Diploma in Performance and Media Arts": {
             "119104": 
                 {
                     "name": "Emerging Paradigms of Performance"
@@ -10680,7 +10680,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Arts": {
+        "Postgraduate Diploma in Professional Accounting": {
             "ACCT863": 
                 {
                     "name": "Accounting Information Systems"
@@ -10722,7 +10722,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Business": {
+        "Postgraduate Diploma in Public Health": {
             "COMH814": 
                 {
                     "name": "Building Sustainable Communities"
@@ -10829,7 +10829,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Business Administration": {
+        "Postgraduate Diploma in Registered Nurse Prescribing": {
             "HEAL824": 
                 {
                     "name": "Advanced assessment and diagnostic reasoning"
@@ -10846,7 +10846,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Business Studies": {
+        "Postgraduate Diploma in Science": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -11098,7 +11098,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Communication Studies": {
+        "Postgraduate Diploma in Science 9": {
             "COMP827": 
                 {
                     "name": "Advanced Computer Graphics"
@@ -11225,7 +11225,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Computer and Information Sciences": {
+        "Postgraduate Diploma in Social Innovation": {
             "SOIN803": 
                 {
                     "name": "People, Systems and Dynamics "
@@ -11252,7 +11252,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Cultural and Creative Practice": {
+        "Postgraduate Diploma in Sport and Exercise": {
             "SPMG801": 
                 {
                     "name": "Advanced Sport Development"
@@ -11384,7 +11384,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Design": {
+        "Postgraduate Certificate in Advanced Nursing Practice": {
             "HEAL824": 
                 {
                     "name": "Advanced assessment and diagnostic reasoning"
@@ -11416,11 +11416,11 @@
                 }
             
         },
-        "Postgraduate Certificate in Education": {},
-        "Postgraduate Certificate in Education Practice": {
+        "Postgraduate Certificate in Applied Science": {},
+        "Postgraduate Certificate in Arts": {
             "PACS804": 
                 {
-                    "name": "(Representation and Representation of the Pacific in Journalism and the Media"
+                    "name": "(Re)presentation and Representation of the Pacific in Journalism and the Media"
                 }
             ,
             "SOSC882": 
@@ -11679,7 +11679,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Educational Leadership": {
+        "Postgraduate Certificate in Arts 10": {
             "MAOR815": 
                 {
                     "name": "Reading Paper"
@@ -11696,7 +11696,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Emergency Management": {
+        "Postgraduate Certificate in Business": {
             "ACCT809": 
                 {
                     "name": "Accounting for Strategic Decision Making"
@@ -12143,7 +12143,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Engineering": {
+        "Postgraduate Certificate in Business Administration": {
             "ACCT840": 
                 {
                     "name": "Accounting for Managers"
@@ -12400,7 +12400,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Gastronomy": {
+        "Postgraduate Certificate in Business Studies": {
             "ACCT868": 
                 {
                     "name": "Accounting for Financial and Managerial Decision Making "
@@ -12452,7 +12452,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Health Science": {
+        "Postgraduate Certificate in Communication Studies": {
             "COMM803": 
                 {
                     "name": "A Political Economy Approach to the Media"
@@ -12719,7 +12719,7 @@
                 }
             
         },
-        "Postgraduate Certificate in International Hospitality Management": {
+        "Postgraduate Certificate in Computer and Information Sciences": {
             "COMP801": 
                 {
                     "name": "3D Technologies: Displays to Printing"
@@ -12881,7 +12881,7 @@
                 }
             
         },
-        "Postgraduate Certificate in International Tourism Management": {
+        "Postgraduate Certificate in Cultural and Creative Practice": {
             "ARDN808": 
                 {
                     "name": "Contextual Review "
@@ -12933,7 +12933,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Law": {
+        "Postgraduate Certificate in Design": {
             "ARDN807": 
                 {
                     "name": "Coding for Artists and Designers"
@@ -13030,7 +13030,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Medical Laboratory Science": {
+        "Postgraduate Certificate in Education": {
             "EDUC842": 
                 {
                     "name": "Building Mentoring Expertise"
@@ -13118,7 +13118,7 @@
             ,
             "EDUC836": 
                 {
-                    "name": "Learning Environments for the 21st Century_ "
+                    "name": "Learning Environments for the 21st Century. "
                 }
             ,
             "EDUC804": 
@@ -13177,7 +13177,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Professional Accounting": {
+        "Postgraduate Certificate in Education Practice": {
             "EDUC808": 
                 {
                     "name": "Concepts and Constructs in Education"
@@ -13209,7 +13209,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Public Health": {
+        "Postgraduate Certificate in Educational Leadership": {
             "EDUC842": 
                 {
                     "name": "Building Mentoring Expertise"
@@ -13241,7 +13241,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Science": {
+        "Postgraduate Certificate in Emergency Management": {
             "EMGT804": 
                 {
                     "name": "Building Resilient Communities"
@@ -13268,7 +13268,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Social Innovation": {
+        "Postgraduate Certificate in Engineering": {
             "ENME811": 
                 {
                     "name": "Advanced CAD/CAM Applications"
@@ -13416,12 +13416,12 @@
             ,
             "ENEL895": 
                 {
-                    "name": "Industrial Project Electrical)"
+                    "name": "Industrial Project (Electrical)"
                 }
             ,
             "ENME895": 
                 {
-                    "name": "Industrial Project Mechanical)"
+                    "name": "Industrial Project (Mechanical)"
                 }
             ,
             "ENGE803": 
@@ -13535,7 +13535,7 @@
                 }
             
         },
-        "Postgraduate Certificate in Sport and Exercise": {
+        "Postgraduate Certificate in Gastronomy": {
             "GAST804": 
                 {
                     "name": "Critical Gastronomy"
@@ -13572,8 +13572,8 @@
                 }
             
         },
-        "Postgraduate Certificate in Visual Arts": {},
-        "Bachelor of Applied Science Honours)": {
+        "Postgraduate Certificate in Health Science": {},
+        "Postgraduate Certificate in International Hospitality Management": {
             "TOUR811": 
                 {
                     "name": "Applied Research Methods"
@@ -13690,7 +13690,7 @@
                 }
             
         },
-        "Bachelor of Art and Design Honours)": {
+        "Postgraduate Certificate in International Tourism Management": {
             "HOSP801": 
                 {
                     "name": "Contemporary Topic in Hospitality"
@@ -13802,7 +13802,7 @@
                 }
             
         },
-        "Bachelor of Arts Honours)": {
+        "Postgraduate Certificate in Law": {
             "LAWS930": 
                 {
                     "name": "Accident Compensation and the Workplace"
@@ -14229,7 +14229,7 @@
                 }
             
         },
-        "Bachelor of Business Honours)": {
+        "Postgraduate Certificate in Medical Laboratory Science": {
             "HEAL825": 
                 {
                     "name": "Applied Health Care Ethics"
@@ -14296,7 +14296,7 @@
                 }
             
         },
-        "Bachelor of Communication Studies Honours)": {
+        "Postgraduate Certificate in Professional Accounting": {
             "ACCT863": 
                 {
                     "name": "Accounting Information Systems"
@@ -14318,7 +14318,7 @@
                 }
             
         },
-        "Bachelor of Computer and Information Sciences Honours)": {
+        "Postgraduate Certificate in Public Health": {
             "PUBH801": 
                 {
                     "name": "Principles of Public Health"
@@ -14335,7 +14335,7 @@
                 }
             
         },
-        "Bachelor of Creative Technologies Honours)": {
+        "Postgraduate Certificate in Science": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -14502,7 +14502,7 @@
                 }
             
         },
-        "Bachelor of Engineering Honours)": {
+        "Postgraduate Certificate in Science 11": {
             "COMP827": 
                 {
                     "name": "Advanced Computer Graphics"
@@ -14629,7 +14629,7 @@
                 }
             
         },
-        "Bachelor of Health Science Honours)": {
+        "Postgraduate Certificate in Social Innovation": {
             "SOIN803": 
                 {
                     "name": "People, Systems and Dynamics "
@@ -14656,7 +14656,7 @@
                 }
             
         },
-        "Bachelor of Laws Honours)": {
+        "Postgraduate Certificate in Sport and Exercise": {
             "SPMG801": 
                 {
                     "name": "Advanced Sport Development"
@@ -14738,7 +14738,7 @@
                 }
             
         },
-        "Bachelor of Science Honours)": {
+        "Postgraduate Certificate in Visual Arts": {
             "ARDN802": 
                 {
                     "name": "Directed Studies Project"
@@ -14780,7 +14780,7 @@
                 }
             
         },
-        "Bachelor of Sport and Recreation Honours)": {
+        "Bachelor of Applied Science (Honours)": {
             "778030": 
                 {
                     "name": "Dissertation"
@@ -14837,7 +14837,7 @@
                 }
             
         },
-        "Bachelor of Applied Science": {
+        "Bachelor of Art and Design (Honours)": {
             "DESN802": 
                 {
                     "name": "Design Contextual Review"
@@ -14854,7 +14854,7 @@
                 }
             
         },
-        "Bachelor of Arts": {
+        "Bachelor of Arts (Honours)": {
             "SOSC882": 
                 {
                     "name": "Advanced Social Theory"
@@ -14872,7 +14872,7 @@
             ,
             "PSYC897": 
                 {
-                    "name": "BA Hons Psychology Dissertation"
+                    "name": "BA (Hons) Psychology Dissertation"
                 }
             ,
             "PSYC882": 
@@ -14972,7 +14972,7 @@
             ,
             "EDUC836": 
                 {
-                    "name": "Learning Environments for the 21st Century_ "
+                    "name": "Learning Environments for the 21st Century. "
                 }
             ,
             "EDUC804": 
@@ -15061,7 +15061,7 @@
                 }
             
         },
-        "Bachelor of Arts NZSL-English Interpreting)": {
+        "Bachelor of Business (Honours)": {
             "ACCT809": 
                 {
                     "name": "Accounting for Strategic Decision Making"
@@ -15588,7 +15588,7 @@
                 }
             
         },
-        "Bachelor of Arts and Bachelor of Business Conjoint Degree": {
+        "Bachelor of Communication Studies (Honours)": {
             "COMM803": 
                 {
                     "name": "A Political Economy Approach to the Media"
@@ -15651,12 +15651,12 @@
             ,
             "COMM895": 
                 {
-                    "name": "Dissertation A)"
+                    "name": "Dissertation (A)"
                 }
             ,
             "COMM897": 
                 {
-                    "name": "Dissertation B)"
+                    "name": "Dissertation (B)"
                 }
             ,
             "TVSP804": 
@@ -15850,7 +15850,7 @@
                 }
             
         },
-        "Bachelor of Arts and Bachelor of Business Conjoint Degrees": {
+        "Bachelor of Computer and Information Sciences (Honours)": {
             "COMP801": 
                 {
                     "name": "3D Technologies: Displays to Printing"
@@ -16017,14 +16017,14 @@
                 }
             
         },
-        "Bachelor of Arts and Bachelor of Computer and Information Sciences": {
+        "Bachelor of Creative Technologies (Honours)": {
             "CTEC800": 
                 {
                     "name": "Research Methods"
                 }
             
         },
-        "Bachelor of Business": {
+        "Bachelor of Engineering (Honours)": {
             "ENGE001": 
                 {
                     "name": "Engineering Workshop Practice"
@@ -16322,7 +16322,7 @@
             ,
             "ENBU704": 
                 {
-                    "name": "Heating, Ventilation and Air-conditioning Systems HVAC)"
+                    "name": "Heating, Ventilation and Air-conditioning Systems (HVAC)"
                 }
             ,
             "COMP716": 
@@ -16532,27 +16532,27 @@
             ,
             "ENBU895": 
                 {
-                    "name": "Industrial Project Architectural)"
+                    "name": "Industrial Project (Architectural)"
                 }
             ,
             "ENBU896": 
                 {
-                    "name": "Industrial Project Construction)"
+                    "name": "Industrial Project (Construction)"
                 }
             ,
             "ENEL895": 
                 {
-                    "name": "Industrial Project Electrical)"
+                    "name": "Industrial Project (Electrical)"
                 }
             ,
             "ENME895": 
                 {
-                    "name": "Industrial Project Mechanical)"
+                    "name": "Industrial Project (Mechanical)"
                 }
             ,
             "ENSE895": 
                 {
-                    "name": "Industrial Project Software)"
+                    "name": "Industrial Project (Software)"
                 }
             ,
             "ENGE803": 
@@ -16641,7 +16641,7 @@
                 }
             
         },
-        "Bachelor of Business and Bachelor of Communication Studies conjoint degrees": {
+        "Bachelor of Health Science (Honours)": {
             "RHAB810": 
                 {
                     "name": "Clinical Gait Analysis"
@@ -16723,7 +16723,7 @@
                 }
             
         },
-        "Bachelor of Business and Bachelor of Computer and Information Sciences Conjoint": {
+        "Bachelor of Laws (Honours)": {
             "LAWS509": 
                 {
                     "name": "Legal Reasoning and Writing"
@@ -17235,7 +17235,7 @@
                 }
             
         },
-        "Bachelor of Business and Bachelor of Health Science Conjoint Degree": {
+        "Bachelor of Science (Honours)": {
             "ENVS802": 
                 {
                     "name": "Advanced Applications in Geographic Information Systems"
@@ -17472,7 +17472,7 @@
                 }
             
         },
-        "Bachelor of Business and Bachelor of International Hospitality Management": {
+        "Bachelor of Science (Honours) 12": {
             "COMP827": 
                 {
                     "name": "Advanced Computer Graphics"
@@ -17599,7 +17599,7 @@
                 }
             
         },
-        "Bachelor of Business and Bachelor of Science Conjoint Degrees": {
+        "Bachelor of Sport and Recreation (Honours)": {
             "SPMG801": 
                 {
                     "name": "Advanced Sport Development"
@@ -17701,7 +17701,7 @@
                 }
             
         },
-        "Bachelor of Business and Bachelor of Sport and Recreation Conjoint Degree": {
+        "Bachelor of Applied Science": {
             "870704": 
                 {
                     "name": "Fiji & South Pacific Coastal Management 7"
@@ -18228,7 +18228,7 @@
                 }
             
         },
-        "Bachelor of Communication Studies": {
+        "Bachelor of Arts": {
             "ENGL503": 
                 {
                     "name": "A Pacific Reader"
@@ -19056,7 +19056,7 @@
             ,
             "NZSL700": 
                 {
-                    "name": "Special Topic Deaf Studies)"
+                    "name": "Special Topic (Deaf Studies)"
                 }
             ,
             "MAOR708": 
@@ -19095,7 +19095,7 @@
                 }
             
         },
-        "Bachelor of Computer & Information Sciences and Bachelor of Science": {
+        "Bachelor of Arts 13": {
             "ENGL503": 
                 {
                     "name": "A Pacific Reader"
@@ -19113,7 +19113,7 @@
             ,
             "HOSP502": 
                 {
-                    "name": "Applied Food and Beverage Management Restaurant)"
+                    "name": "Applied Food and Beverage Management (Restaurant)"
                 }
             ,
             "DIGM550": 
@@ -19898,7 +19898,7 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "LNGT601": 
@@ -20748,7 +20748,7 @@
             ,
             "NZSL700": 
                 {
-                    "name": "Special Topic Deaf Studies)"
+                    "name": "Special Topic (Deaf Studies)"
                 }
             ,
             "CULN701": 
@@ -20842,7 +20842,7 @@
                 }
             
         },
-        "Bachelor of Computer and Information Sciences": {
+        "Bachelor of Arts (NZSL-English Interpreting)": {
             "COMM590": 
                 {
                     "name": "Communication and Presentation Systems"
@@ -20970,11 +20970,11 @@
             ,
             "NZSL700": 
                 {
-                    "name": "Special Topic Deaf Studies)"
+                    "name": "Special Topic (Deaf Studies)"
                 }
             
         },
-        "Bachelor of Creative Technologies": {
+        "Bachelor of Arts and Bachelor of Business Conjoint Degree": {
             "475120": 
                 {
                     "name": "Business Information Management"
@@ -21051,7 +21051,7 @@
                 }
             
         },
-        "Bachelor of Design": {
+        "Bachelor of Arts and Bachelor of Business Conjoint Degrees": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -21789,12 +21789,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "LNGT601": 
@@ -22674,7 +22674,7 @@
             ,
             "NZSL700": 
                 {
-                    "name": "Special Topic Deaf Studies)"
+                    "name": "Special Topic (Deaf Studies)"
                 }
             ,
             "CULN701": 
@@ -22763,8 +22763,8 @@
                 }
             
         },
-        "Bachelor of Education Specialty Teaching": {},
-        "Bachelor of Engineering Technology": {
+        "Bachelor of Arts and Bachelor of Computer and Information Sciences": {},
+        "Bachelor of Business": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -22997,12 +22997,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "ECON601": 
@@ -23446,7 +23446,7 @@
                 }
             
         },
-        "Bachelor of Health Science": {
+        "Bachelor of Business and Bachelor of Communication Studies conjoint degrees": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -23744,12 +23744,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "COMM601": 
@@ -24563,7 +24563,7 @@
                 }
             
         },
-        "Bachelor of Health Science  Midwifery )": {
+        "Bachelor of Business and Bachelor of Computer and Information Sciences Conjoint": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -24916,12 +24916,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "MATH604": 
@@ -25485,7 +25485,7 @@
                 }
             
         },
-        "Bachelor of Health Science Midwifery)": {
+        "Bachelor of Business and Bachelor of Health Science Conjoint Degree": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -25823,12 +25823,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "MENH603": 
@@ -26432,7 +26432,7 @@
                 }
             
         },
-        "Bachelor of Health Science Nursing)": {
+        "Bachelor of Business and Bachelor of International Hospitality Management": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -26455,12 +26455,12 @@
             ,
             "HOSP501": 
                 {
-                    "name": "Applied Food and Beverage Management Kitchen)"
+                    "name": "Applied Food and Beverage Management (Kitchen)"
                 }
             ,
             "HOSP502": 
                 {
-                    "name": "Applied Food and Beverage Management Restaurant)"
+                    "name": "Applied Food and Beverage Management (Restaurant)"
                 }
             ,
             "HOSP504": 
@@ -26745,12 +26745,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "ECON601": 
@@ -27269,7 +27269,7 @@
                 }
             
         },
-        "Bachelor of Health Science Occupational Therapy)": {
+        "Bachelor of Business and Bachelor of Science Conjoint Degrees": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -27802,12 +27802,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "BIOL601": 
@@ -28556,7 +28556,7 @@
                 }
             
         },
-        "Bachelor of Health Science Physiotherapy)": {
+        "Bachelor of Business and Bachelor of Sport and Recreation Conjoint Degree": {
             "ACCT501": 
                 {
                     "name": "Accounting for Decision Making"
@@ -28919,12 +28919,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "ECON601": 
@@ -29518,7 +29518,7 @@
                 }
             
         },
-        "Bachelor of Health Science in Health Promotion": {
+        "Bachelor of Communication Studies": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -30030,7 +30030,7 @@
                 }
             
         },
-        "Bachelor of Health Science in Oral Health": {
+        "Bachelor of Computer & Information Sciences and Bachelor of Science": {
             "145612": 
                 {
                     "name": "Applied Communication"
@@ -30212,7 +30212,7 @@
                 }
             
         },
-        "Bachelor of Health Science in Paramedicine": {
+        "Bachelor of Computer and Information Sciences": {
             "720001": 
                 {
                     "name": "Skills Workshop"
@@ -30549,7 +30549,7 @@
                 }
             
         },
-        "Bachelor of Health Science in Podiatry": {
+        "Bachelor of Creative Technologies": {
             "CTEC501": 
                 {
                     "name": "Creative Technologies Studio I"
@@ -30696,7 +30696,7 @@
                 }
             
         },
-        "Bachelor of Health Science in Psychology": {
+        "Bachelor of Design": {
             "111TECH": 
                 {
                     "name": "Art and Design Technology Workshop"
@@ -31403,7 +31403,7 @@
                 }
             
         },
-        "Bachelor of International Hospitality Management": {
+        "Bachelor of Education (Specialty) Teaching": {
             "EDCR521": 
                 {
                     "name": "Curriculum I: Te Whariki "
@@ -31630,7 +31630,7 @@
                 }
             
         },
-        "Bachelor of International Tourism Management": {
+        "Bachelor of Engineering Technology": {
             "ENGE001": 
                 {
                     "name": "Engineering Workshop Practice"
@@ -32068,7 +32068,7 @@
             ,
             "ENBU704": 
                 {
-                    "name": "Heating, Ventilation and Air-conditioning Systems HVAC)"
+                    "name": "Heating, Ventilation and Air-conditioning Systems (HVAC)"
                 }
             ,
             "COMP716": 
@@ -32152,7 +32152,7 @@
                 }
             
         },
-        "Bachelor of Laws": {
+        "Bachelor of Health Science": {
             "555126": 
                 {
                     "name": "Clinical Coding"
@@ -32959,7 +32959,7 @@
                 }
             
         },
-        "Bachelor of Maori Development": {
+        "Bachelor of Health Science 14": {
             "EPMY501": 
                 {
                     "name": "Epidemiology"
@@ -33091,7 +33091,7 @@
                 }
             
         },
-        "Bachelor of Mathematical Sciences": {
+        "Bachelor of Health Science 15": {
             "COUN503": 
                 {
                     "name": "Counselling Knowledge and Skills I"
@@ -33213,7 +33213,7 @@
                 }
             
         },
-        "Bachelor of Medical Laboratory Science": {
+        "Bachelor of Health Science 16": {
             "EPMY501": 
                 {
                     "name": "Epidemiology"
@@ -33335,7 +33335,7 @@
                 }
             
         },
-        "Bachelor of Science": {
+        "Bachelor of Health Science 17": {
             "HEAL507": 
                 {
                     "name": "Health and Environment"
@@ -33452,7 +33452,7 @@
                 }
             
         },
-        "Bachelor of Sport and Recreation": {
+        "Bachelor of Health Science ( Midwifery )": {
             "525195": 
                 {
                     "name": "Developing Midwifery Practice"
@@ -33594,7 +33594,7 @@
                 }
             
         },
-        "Bachelor of Visual Arts": {
+        "Bachelor of Health Science (Midwifery)": {
             "MIDW502": 
                 {
                     "name": "Developing Midwifery Practice"
@@ -33751,7 +33751,7 @@
                 }
             
         },
-        "Graduate Diploma in Specialty Education": {
+        "Bachelor of Health Science (Nursing)": {
             "555401": 
                 {
                     "name": "Health and Environment"
@@ -33903,7 +33903,7 @@
                 }
             
         },
-        "Graduate Diploma in Addictions": {
+        "Bachelor of Health Science (Occupational Therapy)": {
             "555401": 
                 {
                     "name": "Health and Environment"
@@ -34130,7 +34130,7 @@
                 }
             
         },
-        "Graduate Diploma in Advertising Creativity": {
+        "Bachelor of Health Science (Physiotherapy)": {
             "HEAL507": 
                 {
                     "name": "Health and Environment"
@@ -34277,7 +34277,7 @@
                 }
             
         },
-        "Graduate Diploma in Applied Science": {
+        "Bachelor of Health Science in Health Promotion": {
             "EPMY501": 
                 {
                     "name": "Epidemiology"
@@ -34394,7 +34394,7 @@
                 }
             
         },
-        "Graduate Diploma in Arts": {
+        "Bachelor of Health Science in Oral Health": {
             "HEAL507": 
                 {
                     "name": "Health and Environment"
@@ -34501,7 +34501,7 @@
                 }
             
         },
-        "Graduate Diploma in Arts Maori Development)": {
+        "Bachelor of Health Science in Paramedicine": {
             "HEAL507": 
                 {
                     "name": "Health and Environment"
@@ -34638,7 +34638,7 @@
                 }
             
         },
-        "Graduate Diploma in Business": {
+        "Bachelor of Health Science in Podiatry": {
             "HEAL507": 
                 {
                     "name": "Health and Environment"
@@ -34740,7 +34740,7 @@
                 }
             
         },
-        "Graduate Diploma in Child Mental Health": {
+        "Bachelor of Health Science in Psychology": {
             "HEAL510": 
                 {
                     "name": "Communication And Education In The Health Environment"
@@ -34982,7 +34982,7 @@
                 }
             
         },
-        "Graduate Diploma in Computer and Information Sciences": {
+        "Bachelor of International Hospitality Management": {
             "COMM570": 
                 {
                     "name": "Academic Communication: Conventions and Expectations"
@@ -34990,12 +34990,12 @@
             ,
             "HOSP501": 
                 {
-                    "name": "Applied Food and Beverage Management Kitchen)"
+                    "name": "Applied Food and Beverage Management (Kitchen)"
                 }
             ,
             "HOSP502": 
                 {
-                    "name": "Applied Food and Beverage Management Restaurant)"
+                    "name": "Applied Food and Beverage Management (Restaurant)"
                 }
             ,
             "HOSP506": 
@@ -35364,7 +35364,7 @@
                 }
             
         },
-        "Graduate Diploma in Health Science": {
+        "Bachelor of International Tourism Management": {
             "TOUR001": 
                 {
                     "name": "Keys to Success - Tourism"
@@ -35512,7 +35512,7 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "BSYS604": 
@@ -35676,7 +35676,7 @@
                 }
             
         },
-        "Graduate Diploma in International Hospitality Management": {
+        "Bachelor of Laws": {
             "LAWS509": 
                 {
                     "name": "Legal Reasoning and Writing"
@@ -36173,7 +36173,7 @@
                 }
             
         },
-        "Graduate Diploma in International Tourism Management": {
+        "Bachelor of Maori Development": {
             "DIGM550": 
                 {
                     "name": "Applied Media 1"
@@ -36395,7 +36395,7 @@
                 }
             
         },
-        "Graduate Diploma in Mathematical Sciences": {
+        "Bachelor of Mathematical Sciences": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -36667,7 +36667,7 @@
                 }
             
         },
-        "Graduate Diploma in Pacific Journalism": {
+        "Bachelor of Medical Laboratory Science": {
             "715184": 
                 {
                     "name": "Applied Statistics"
@@ -37109,7 +37109,7 @@
                 }
             
         },
-        "Graduate Diploma in Psychotherapy Studies": {
+        "Bachelor of Science": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -37611,7 +37611,7 @@
                 }
             
         },
-        "Graduate Diploma in Science": {
+        "Bachelor of Science 18": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -38293,7 +38293,7 @@
                 }
             
         },
-        "Graduate Diploma in Secondary Teaching": {
+        "Bachelor of Sport and Recreation": {
             "SPOR503": 
                 {
                     "name": "Contemporary Issues in Sport and Recreation"
@@ -38630,7 +38630,7 @@
                 }
             
         },
-        "Graduate Diploma in Sport and Exercise": {
+        "Bachelor of Visual Arts": {
             "111TECH": 
                 {
                     "name": "Art and Design Technology Workshop"
@@ -39017,7 +39017,7 @@
                 }
             
         },
-        "Graduate Certificate in Addictions": {
+        "Graduate Diploma in Specialty Education": {
             "EDUC650": 
                 {
                     "name": "Inclusive Education"
@@ -39149,7 +39149,7 @@
                 }
             
         },
-        "Graduate Certificate in Applied Science": {
+        "Graduate Diploma in Addictions": {
             "775617": 
                 {
                     "name": "Epidemiology"
@@ -39281,7 +39281,7 @@
                 }
             
         },
-        "Graduate Certificate in Arts": {
+        "Graduate Diploma in Advertising Creativity": {
             "MARS603": 
                 {
                     "name": "Communications in Marketing, Advertising, Retailing, Sales"
@@ -39353,8 +39353,8 @@
                 }
             
         },
-        "Graduate Certificate in Business": {},
-        "Graduate Certificate in Computer and Information Sciences": {
+        "Graduate Diploma in Applied Science": {},
+        "Graduate Diploma in Arts": {
             "ENGL503": 
                 {
                     "name": "A Pacific Reader"
@@ -40307,7 +40307,7 @@
             ,
             "NZSL700": 
                 {
-                    "name": "Special Topic Deaf Studies)"
+                    "name": "Special Topic (Deaf Studies)"
                 }
             ,
             "CULN701": 
@@ -40331,8 +40331,8 @@
                 }
             
         },
-        "Graduate Certificate in Emergency Management": {},
-        "Graduate Certificate in Health Science": {
+        "Graduate Diploma in Arts (Maori Development)": {},
+        "Graduate Diploma in Business": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -40520,12 +40520,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "ECON601": 
@@ -40864,7 +40864,7 @@
                 }
             
         },
-        "Graduate Certificate in International Hospitality Management": {
+        "Graduate Diploma in Child Mental Health": {
             "566401": 
                 {
                     "name": "Mental Health and Psychopathology"
@@ -40901,7 +40901,7 @@
                 }
             
         },
-        "Graduate Certificate in International Tourism Management": {
+        "Graduate Diploma in Computer and Information Sciences": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -41243,7 +41243,7 @@
                 }
             
         },
-        "Graduate Certificate in Mathematical Sciences": {
+        "Graduate Diploma in Health Science": {
             "554418": 
                 {
                     "name": "Foundation in Psychology"
@@ -41281,7 +41281,7 @@
             ,
             "554102": 
                 {
-                    "name": "Kai Totika Korikori Tinana Maori Nutrition & Physical Activity)"
+                    "name": "Kai Totika Korikori Tinana (Maori Nutrition & Physical Activity)"
                 }
             ,
             "554417": 
@@ -41890,7 +41890,7 @@
                 }
             
         },
-        "Graduate Certificate in Science": {
+        "Graduate Diploma in International Hospitality Management": {
             "COMM570": 
                 {
                     "name": "Academic Communication: Conventions and Expectations"
@@ -41898,7 +41898,7 @@
             ,
             "HOSP502": 
                 {
-                    "name": "Applied Food and Beverage Management Restaurant)"
+                    "name": "Applied Food and Beverage Management (Restaurant)"
                 }
             ,
             "HOSP504": 
@@ -42067,7 +42067,7 @@
                 }
             
         },
-        "Graduate Certificate in Sport & Exercise": {
+        "Graduate Diploma in International Tourism Management": {
             "COMM570": 
                 {
                     "name": "Academic Communication: Conventions and Expectations"
@@ -42210,7 +42210,7 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "BSYS604": 
@@ -42354,7 +42354,7 @@
                 }
             
         },
-        "Diploma in Applied Science": {
+        "Graduate Diploma in Mathematical Sciences": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -42636,7 +42636,7 @@
                 }
             
         },
-        "Diploma in Chinese": {
+        "Graduate Diploma in Pacific Journalism": {
             "TVSP601": 
                 {
                     "name": "Screen Production: Non-Fiction"
@@ -42718,7 +42718,7 @@
                 }
             
         },
-        "Diploma in Culinary Arts": {
+        "Graduate Diploma in Psychotherapy Studies": {
             "MENH602": 
                 {
                     "name": "Mental Health and Psychopathology"
@@ -42750,7 +42750,7 @@
                 }
             
         },
-        "Diploma in English Language": {
+        "Graduate Diploma in Science": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -43007,7 +43007,7 @@
                 }
             
         },
-        "Diploma in Fitness Training": {
+        "Graduate Diploma in Science 19": {
             "SCIE501": 
                 {
                     "name": "Anaesthesia I"
@@ -43444,7 +43444,7 @@
                 }
             
         },
-        "Diploma in Interpreting and Translation": {
+        "Graduate Diploma in Secondary Teaching": {
             "EDST601": 
                 {
                     "name": "Practicum 1"
@@ -43481,8 +43481,8 @@
                 }
             
         },
-        "Diploma in Japanese": {},
-        "Diploma in Mental Health Support Work": {
+        "Graduate Diploma in Sport and Exercise": {},
+        "Graduate Certificate in Addictions": {
             "567527": 
                 {
                     "name": "Advanced Interventions for Addiction"
@@ -43524,8 +43524,8 @@
                 }
             
         },
-        "Diploma in Military Medicine": {},
-        "Diploma in Outdoor Recreation Leadership": {
+        "Graduate Certificate in Applied Science": {},
+        "Graduate Certificate in Arts": {
             "ENGL503": 
                 {
                     "name": "A Pacific Reader"
@@ -44463,7 +44463,7 @@
             ,
             "NZSL700": 
                 {
-                    "name": "Special Topic Deaf Studies)"
+                    "name": "Special Topic (Deaf Studies)"
                 }
             ,
             "CULN701": 
@@ -44487,8 +44487,8 @@
                 }
             
         },
-        "Diploma in Paramedic Science": {},
-        "Diploma in Patisserie": {
+        "Graduate Certificate in Arts 20": {},
+        "Graduate Certificate in Business": {
             "MARS006": 
                 {
                     "name": "Marketing, Advertising, Retailing, Sales Studio 6"
@@ -44676,12 +44676,12 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "SUSE601": 
                 {
-                    "name": "Managing Ethics and Corporate Responsibility CR)"
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
                 }
             ,
             "ECON601": 
@@ -45030,7 +45030,7 @@
                 }
             
         },
-        "Diploma in Sport and Recreation": {
+        "Graduate Certificate in Computer and Information Sciences": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -45337,7 +45337,7 @@
                 }
             
         },
-        "Diploma in Sports Management and Exercise Science": {
+        "Graduate Certificate in Emergency Management": {
             "EMGT601": 
                 {
                     "name": "Emergency and Disaster Risk Management"
@@ -45359,8 +45359,8 @@
                 }
             
         },
-        "Diploma in Violence and Trauma Studies": {},
-        "Certificate in Specialty Education": {
+        "Graduate Certificate in Health Science": {},
+        "Graduate Certificate in International Hospitality Management": {
             "COMM570": 
                 {
                     "name": "Academic Communication: Conventions and Expectations"
@@ -45368,7 +45368,7 @@
             ,
             "HOSP502": 
                 {
-                    "name": "Applied Food and Beverage Management Restaurant)"
+                    "name": "Applied Food and Beverage Management (Restaurant)"
                 }
             ,
             "CLSY500": 
@@ -45522,7 +45522,7 @@
                 }
             
         },
-        "Certificate in Anaesthetic Technology": {
+        "Graduate Certificate in International Tourism Management": {
             "COMM570": 
                 {
                     "name": "Academic Communication: Conventions and Expectations"
@@ -45665,7 +45665,7 @@
             ,
             "MGMT602": 
                 {
-                    "name": "Management of Small and Medium Sized Enterprises SMEs)"
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
                 }
             ,
             "BSYS604": 
@@ -45809,7 +45809,7 @@
                 }
             
         },
-        "Certificate in Applied Mental Health": {
+        "Graduate Certificate in Mathematical Sciences": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -46106,7 +46106,7 @@
                 }
             
         },
-        "Certificate in Applied Science": {
+        "Graduate Certificate in Science": {
             "MATH502": 
                 {
                     "name": "Algebra and Discrete Mathematics"
@@ -46363,7 +46363,7 @@
                 }
             
         },
-        "Certificate in Business": {
+        "Graduate Certificate in Science 21": {
             "SCIE501": 
                 {
                     "name": "Anaesthesia I"
@@ -46800,8 +46800,8 @@
                 }
             
         },
-        "Certificate in Business Studies": {},
-        "Certificate in Communication Studies": {
+        "Graduate Certificate in Sport & Exercise": {},
+        "Diploma in Applied Science": {
             "BIOL401": 
                 {
                     "name": "Foundation Biology"
@@ -47098,7 +47098,7 @@
                 }
             
         },
-        "Certificate in Emergency Management": {
+        "Diploma in Chinese": {
             "CLSY503": 
                 {
                     "name": "Asian Popular Culture"
@@ -47200,7 +47200,7 @@
                 }
             
         },
-        "Certificate in Employment Skills English": {
+        "Diploma in Culinary Arts": {
             "CULN401": 
                 {
                     "name": "Cookery Practices and Principles I"
@@ -47282,7 +47282,7 @@
                 }
             
         },
-        "Certificate in English for Academic Study": {
+        "Diploma in English Language": {
             "ENGL503": 
                 {
                     "name": "A Pacific Reader"
@@ -47329,7 +47329,7 @@
                 }
             
         },
-        "Certificate in English Language": {
+        "Diploma in Fitness Training": {
             "514002": 
                 {
                     "name": "Introduction to Managing and Quality Service"
@@ -47371,7 +47371,7 @@
                 }
             
         },
-        "Certificate in Foundation Studies": {
+        "Diploma in Interpreting and Translation": {
             "TRIN502": 
                 {
                     "name": "Introduction to Translation"
@@ -47423,8 +47423,8 @@
                 }
             
         },
-        "Certificate in Health Care Support": {},
-        "Certificate in Health Studies": {
+        "Diploma in Japanese": {},
+        "Diploma in Mental Health Support Work": {
             "MENH501": 
                 {
                     "name": "Establishing Relationships in Support Work"
@@ -47466,7 +47466,7 @@
                 }
             
         },
-        "Certificate in Hospitality and Tourism": {
+        "Diploma in Military Medicine": {
             "526222": 
                 {
                     "name": "Biological Science"
@@ -47498,7 +47498,7 @@
                 }
             
         },
-        "Certificate in Legal Studies": {
+        "Diploma in Outdoor Recreation Leadership": {
             "SPOR401": 
                 {
                     "name": "Introduction to Managing and Quality Service"
@@ -47580,7 +47580,7 @@
                 }
             
         },
-        "Certificate in Pharmacy Technician)": {
+        "Diploma in Paramedic Science": {
             "HEAL505": 
                 {
                     "name": "Human Anatomy and Physiology I"
@@ -47622,7 +47622,7 @@
                 }
             
         },
-        "Certificate in Practical Patisserie": {
+        "Diploma in Patisserie": {
             "PATS408": 
                 {
                     "name": "Basic Cold Desserts"
@@ -47714,7 +47714,7 @@
                 }
             
         },
-        "Certificate in Science and Technology": {
+        "Diploma in Sport and Recreation": {
             "SPEX401": 
                 {
                     "name": "Exercise Foundations"
@@ -47771,7 +47771,7 @@
                 }
             
         },
-        "Certificate in Social Sciences": {
+        "Diploma in Sports Management and Exercise Science": {
             "514006": 
                 {
                     "name": "Introduction to Coaching Practice"
@@ -47848,7 +47848,7 @@
                 }
             
         },
-        "Certificate in Sport and Recreation": {
+        "Diploma in Violence and Trauma Studies": {
             "565316": 
                 {
                     "name": "Family Violence Theory and Policy"
@@ -47890,7 +47890,7 @@
                 }
             
         },
-        "Certificate of Proficiency": {
+        "Certificate in Specialty Education": {
             "EDCR521": 
                 {
                     "name": "Curriculum I: Te Whariki "
@@ -47949,6 +47949,1579 @@
             "EDUC550": 
                 {
                     "name": "Whanau/Family and Society"
+                }
+            
+        },
+        "Certificate in Anaesthetic Technology": {
+            "875611": 
+                {
+                    "name": "Anaesthesia 5A"
+                }
+            ,
+            "875612": 
+                {
+                    "name": "Anaesthesia 5B"
+                }
+            ,
+            "775611": 
+                {
+                    "name": "Biophysics"
+                }
+            ,
+            "775613": 
+                {
+                    "name": "Human Anatomy and Physiology IA"
+                }
+            ,
+            "775614": 
+                {
+                    "name": "Human Anatomy and Physiology IB"
+                }
+            
+        },
+        "Certificate in Applied Mental Health": {
+            "564101": 
+                {
+                    "name": "Mental Health Support Work I"
+                }
+            ,
+            "564102": 
+                {
+                    "name": "Mental Health Support Work II"
+                }
+            ,
+            "564103": 
+                {
+                    "name": "Mental Health Support Work III"
+                }
+            ,
+            "564104": 
+                {
+                    "name": "Mental Health Support Work IV"
+                }
+            
+        },
+        "Certificate in Applied Science": {
+            "713284": 
+                {
+                    "name": "Mathematical Skills 3"
+                }
+            ,
+            "774301": 
+                {
+                    "name": "Foundation Biology"
+                }
+            ,
+            "774602": 
+                {
+                    "name": "Foundation Biophysics"
+                }
+            ,
+            "774201": 
+                {
+                    "name": "Foundation Chemistry"
+                }
+            ,
+            "774601": 
+                {
+                    "name": "Foundation Human Anatomy and Physiology"
+                }
+            ,
+            "714285": 
+                {
+                    "name": "Foundation Statistics"
+                }
+            ,
+            "144702": 
+                {
+                    "name": "Introduction to Academic Writing"
+                }
+            ,
+            "715184": 
+                {
+                    "name": "Applied Statistics"
+                }
+            ,
+            "775317": 
+                {
+                    "name": "Ecology and Evolution"
+                }
+            ,
+            "775205": 
+                {
+                    "name": "General Chemistry"
+                }
+            ,
+            "775111": 
+                {
+                    "name": "Microbiology"
+                }
+            ,
+            "775318": 
+                {
+                    "name": "Plants and Animals"
+                }
+            
+        },
+        "Certificate in Applied Science 22": {
+            "MATH401": 
+                {
+                    "name": "Foundation Algebra"
+                }
+            ,
+            "BIOL401": 
+                {
+                    "name": "Foundation Biology"
+                }
+            ,
+            "SCIE401": 
+                {
+                    "name": "Foundation Biophysics"
+                }
+            ,
+            "CHEM401": 
+                {
+                    "name": "Foundation Chemistry"
+                }
+            ,
+            "ECOL401": 
+                {
+                    "name": "Foundation Ecology"
+                }
+            ,
+            "HUMB401": 
+                {
+                    "name": "Foundation Human Anatomy and Physiology"
+                }
+            ,
+            "MATH400": 
+                {
+                    "name": "Foundation Mathematics"
+                }
+            ,
+            "STAT400": 
+                {
+                    "name": "Foundation Statistics"
+                }
+            ,
+            "COMM401": 
+                {
+                    "name": "Introduction to Academic Writing"
+                }
+            ,
+            "STAT500": 
+                {
+                    "name": "Applied Statistics"
+                }
+            ,
+            "ECOL501": 
+                {
+                    "name": "Ecology and Evolution"
+                }
+            ,
+            "BIOL502": 
+                {
+                    "name": "Plants and Animals"
+                }
+            ,
+            "CHEM501": 
+                {
+                    "name": "Principles of Chemistry"
+                }
+            
+        },
+        "Certificate in Business": {
+            "BUSS401": 
+                {
+                    "name": "Introductory Business Studies"
+                }
+            
+        },
+        "Certificate in Business Studies": {
+            "ACCT501": 
+                {
+                    "name": "Accounting for Decision Making"
+                }
+            ,
+            "STAT500": 
+                {
+                    "name": "Applied Statistics"
+                }
+            ,
+            "BUSS501": 
+                {
+                    "name": "Business in Context"
+                }
+            ,
+            "BSYS501": 
+                {
+                    "name": "Business Information Systems"
+                }
+            ,
+            "DESN500": 
+                {
+                    "name": "Design for Business and Society"
+                }
+            ,
+            "MATH501": 
+                {
+                    "name": "Differential and Integral Calculus"
+                }
+            ,
+            "ECON501": 
+                {
+                    "name": "Economic Principles 1"
+                }
+            ,
+            "ECON502": 
+                {
+                    "name": "Economic Principles 2"
+                }
+            ,
+            "ENTR501": 
+                {
+                    "name": "Introduction to Entrepreneurship and Innovation"
+                }
+            ,
+            "FINA501": 
+                {
+                    "name": "Introduction to Finance"
+                }
+            ,
+            "LAWS541": 
+                {
+                    "name": "Law for New Zealand Business "
+                }
+            ,
+            "SUSE501": 
+                {
+                    "name": "Leadership For Sustainable Enterprise"
+                }
+            ,
+            "MGMT501": 
+                {
+                    "name": "Management and Organisation"
+                }
+            ,
+            "MARS501": 
+                {
+                    "name": "Marketing, Advertising, Retailing, Sales: Positioning in an Omni Environment"
+                }
+            ,
+            "MATH500": 
+                {
+                    "name": "Mathematical Concepts"
+                }
+            ,
+            "BUSS502": 
+                {
+                    "name": "Quantitative Methods for Business"
+                }
+            ,
+            "ACCT601": 
+                {
+                    "name": "Accounting Practice and Systems"
+                }
+            ,
+            "DESN603": 
+                {
+                    "name": "Activating Creativity"
+                }
+            ,
+            "ADVT670": 
+                {
+                    "name": "Advertising Creativity"
+                }
+            ,
+            "FINA603": 
+                {
+                    "name": "Banking and Financial Markets"
+                }
+            ,
+            "INTB601": 
+                {
+                    "name": "Business and Culture"
+                }
+            ,
+            "BSYS602": 
+                {
+                    "name": "Business Data Management"
+                }
+            ,
+            "BSYS601": 
+                {
+                    "name": "Business Process Management"
+                }
+            ,
+            "SUSE602": 
+                {
+                    "name": "Climate Change and Emissions Strategies"
+                }
+            ,
+            "MARS603": 
+                {
+                    "name": "Communications in Marketing, Advertising, Retailing, Sales"
+                }
+            ,
+            "FINA601": 
+                {
+                    "name": "Corporate Finance"
+                }
+            ,
+            "MARS601": 
+                {
+                    "name": "Data, Information and Knowledge"
+                }
+            ,
+            "DESN600": 
+                {
+                    "name": "Design Thinking Practices"
+                }
+            ,
+            "EMPL601": 
+                {
+                    "name": "Employment Relations"
+                }
+            ,
+            "ACCT602": 
+                {
+                    "name": "Financial Accounting for Companies"
+                }
+            ,
+            "HRMG601": 
+                {
+                    "name": "Human Resource Management"
+                }
+            ,
+            "INTB602": 
+                {
+                    "name": "International Business Environment"
+                }
+            ,
+            "ECON603": 
+                {
+                    "name": "Introduction to Econometrics"
+                }
+            ,
+            "FINA602": 
+                {
+                    "name": "Investment and Portfolio Analysis"
+                }
+            ,
+            "LAWS641": 
+                {
+                    "name": "Law of Business Organisations"
+                }
+            ,
+            "MGMT603": 
+                {
+                    "name": "Leadership for Change"
+                }
+            ,
+            "ECON602": 
+                {
+                    "name": "Macroeconomics"
+                }
+            ,
+            "ECON604": 
+                {
+                    "name": "Macroeconomics in the Global Environment"
+                }
+            ,
+            "ACCT603": 
+                {
+                    "name": "Management Accounting"
+                }
+            ,
+            "MGMT602": 
+                {
+                    "name": "Management of Small and Medium Sized Enterprises (SMEs)"
+                }
+            ,
+            "SUSE601": 
+                {
+                    "name": "Managing Ethics and Corporate Responsibility (CR)"
+                }
+            ,
+            "ECON601": 
+                {
+                    "name": "Microeconomics"
+                }
+            ,
+            "BSYS604": 
+                {
+                    "name": "Operations Management"
+                }
+            ,
+            "MGMT601": 
+                {
+                    "name": "Organisational Behaviour"
+                }
+            ,
+            "FINA604": 
+                {
+                    "name": "Personal Finance"
+                }
+            ,
+            "BSYS603": 
+                {
+                    "name": "Project Management"
+                }
+            ,
+            "BUSS601": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "BUSS602": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "BUSS603": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "DESN601": 
+                {
+                    "name": "Strategic Design"
+                }
+            ,
+            "TOUR609": 
+                {
+                    "name": "Tourism and the Environment "
+                }
+            ,
+            "HRMG602": 
+                {
+                    "name": "Training and Development "
+                }
+            ,
+            "MARS602": 
+                {
+                    "name": "Understanding the Environment"
+                }
+            ,
+            "DESN602": 
+                {
+                    "name": "Visual Communication in Business"
+                }
+            ,
+            "ACCT701": 
+                {
+                    "name": "Advanced Accounting Information Systems"
+                }
+            ,
+            "ACCT704": 
+                {
+                    "name": "Advanced Auditing"
+                }
+            ,
+            "ACCT703": 
+                {
+                    "name": "Advanced Management Accounting"
+                }
+            ,
+            "ECON703": 
+                {
+                    "name": "Applied Econometrics"
+                }
+            ,
+            "ECON702": 
+                {
+                    "name": "Applied Macroeconomics"
+                }
+            ,
+            "ECON701": 
+                {
+                    "name": "Applied Microeconomics"
+                }
+            ,
+            "MARS701": 
+                {
+                    "name": "Attitudes, Cognition and Behaviour I"
+                }
+            ,
+            "MARS704": 
+                {
+                    "name": "Attitudes, Cognition and Behaviour II"
+                }
+            ,
+            "DESN703": 
+                {
+                    "name": "Breakthrough Thinking"
+                }
+            ,
+            "DESN701": 
+                {
+                    "name": "Co-Design"
+                }
+            ,
+            "INTB703": 
+                {
+                    "name": "Contemporary Issues in International Business "
+                }
+            ,
+            "MGMT706": 
+                {
+                    "name": "Contemporary Themes in Organisational Behaviour"
+                }
+            ,
+            "EMPL703": 
+                {
+                    "name": "Contemporary Work and Employment Relationships"
+                }
+            ,
+            "ACCT702": 
+                {
+                    "name": "Current Issues in Financial Accounting"
+                }
+            ,
+            "DESN702": 
+                {
+                    "name": "Design for Sustainability"
+                }
+            ,
+            "DESN704": 
+                {
+                    "name": "Design Futures"
+                }
+            ,
+            "DESN700": 
+                {
+                    "name": "Designing for Services"
+                }
+            ,
+            "HRMG701": 
+                {
+                    "name": "Diversity at Work"
+                }
+            ,
+            "BSYS703": 
+                {
+                    "name": "eBusiness Management"
+                }
+            ,
+            "ECON709": 
+                {
+                    "name": "Economic History"
+                }
+            ,
+            "ECON707": 
+                {
+                    "name": "Economics of Labour and Health Policy"
+                }
+            ,
+            "ECON705": 
+                {
+                    "name": "Economics, Natural Resources and Society"
+                }
+            ,
+            "EMPL701": 
+                {
+                    "name": "Employment Regulations and Dispute Resolution"
+                }
+            ,
+            "BSYS701": 
+                {
+                    "name": "Enterprise Information Systems"
+                }
+            ,
+            "FINA703": 
+                {
+                    "name": "Entrepreneurial and Small Business Finance"
+                }
+            ,
+            "ENTR795": 
+                {
+                    "name": "Entrepreneurship and Innovation"
+                }
+            ,
+            "FINA704": 
+                {
+                    "name": "Financial Modelling and Data Analysis"
+                }
+            ,
+            "FINA702": 
+                {
+                    "name": "Financial Risk Management"
+                }
+            ,
+            "INTB705": 
+                {
+                    "name": "Global Business: Inventing the Modern World"
+                }
+            ,
+            "ECON706": 
+                {
+                    "name": "Growth and Development Economics"
+                }
+            ,
+            "ECON704": 
+                {
+                    "name": "Industrial Organisation"
+                }
+            ,
+            "BSYS702": 
+                {
+                    "name": "Information Systems Strategy and Governance"
+                }
+            ,
+            "ACCT705": 
+                {
+                    "name": "International Accounting"
+                }
+            ,
+            "INTB704": 
+                {
+                    "name": "International Business Management"
+                }
+            ,
+            "INTB701": 
+                {
+                    "name": "International Business Strategy"
+                }
+            ,
+            "FINA701": 
+                {
+                    "name": "International Corporate Finance"
+                }
+            ,
+            "HRMG703": 
+                {
+                    "name": "International Human Resource Management"
+                }
+            ,
+            "MARS706": 
+                {
+                    "name": "International Omnichannel Study Tour - USA"
+                }
+            ,
+            "ECON708": 
+                {
+                    "name": "International Trade Economics"
+                }
+            ,
+            "HRMG704": 
+                {
+                    "name": "Issues in Human Resource Management "
+                }
+            ,
+            "BSYS795": 
+                {
+                    "name": "Issues in Project Management"
+                }
+            ,
+            "INTB702": 
+                {
+                    "name": "Leadership Challenges in International Business"
+                }
+            ,
+            "BSYS704": 
+                {
+                    "name": "Logistics and Supply Chain Management"
+                }
+            ,
+            "MGMT704": 
+                {
+                    "name": "Management in the Not-for-Profit Sector"
+                }
+            ,
+            "MGMT702": 
+                {
+                    "name": "Management of Technology and Innovation"
+                }
+            ,
+            "ACCT706": 
+                {
+                    "name": "Managerial Finance"
+                }
+            ,
+            "EMPL702": 
+                {
+                    "name": "Occupational Health, Safety and Wellbeing"
+                }
+            ,
+            "MGMT705": 
+                {
+                    "name": "Occupational Stress and Resilience"
+                }
+            ,
+            "MGMT707": 
+                {
+                    "name": "Risk Management"
+                }
+            ,
+            "MARS702": 
+                {
+                    "name": "Segments and Markets"
+                }
+            ,
+            "ENTR701": 
+                {
+                    "name": "Social Entrepreneurship"
+                }
+            ,
+            "BUSS705": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "BUSS707": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "BUSS708": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "BUSS709": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "BUSS704": 
+                {
+                    "name": "Special Topic"
+                }
+            ,
+            "HRMG702": 
+                {
+                    "name": "Strategic Human Resource Management"
+                }
+            ,
+            "MGMT703": 
+                {
+                    "name": "Strategic Management"
+                }
+            ,
+            "MGMT795": 
+                {
+                    "name": "Strategic Project Leadership"
+                }
+            ,
+            "MARS703": 
+                {
+                    "name": "Strategies and Tactics"
+                }
+            ,
+            "MGMT701": 
+                {
+                    "name": "Strategy in Action"
+                }
+            ,
+            "SUSE701": 
+                {
+                    "name": "Student Consultant Partnership Paper"
+                }
+            ,
+            "ACCT708": 
+                {
+                    "name": "Sustainability Accounting and Reporting"
+                }
+            ,
+            "ACCT707": 
+                {
+                    "name": "Taxation for Accounting Studies"
+                }
+            ,
+            "MARS705": 
+                {
+                    "name": "Trends and Innovations"
+                }
+            
+        },
+        "Certificate in Communication Studies": {
+            "COMM401": 
+                {
+                    "name": "Introduction to Academic Writing"
+                }
+            ,
+            "RADC400": 
+                {
+                    "name": "Introduction to Audio Production"
+                }
+            ,
+            "DIGM400": 
+                {
+                    "name": "Introduction to Digital Communication"
+                }
+            ,
+            "COMM400": 
+                {
+                    "name": "Introduction to Interpersonal Communication"
+                }
+            ,
+            "JOUR400": 
+                {
+                    "name": "Introduction to Journalism"
+                }
+            ,
+            "COMM403": 
+                {
+                    "name": "Introduction to Media Communication"
+                }
+            ,
+            "PUBL400": 
+                {
+                    "name": "Introduction to Public Relations"
+                }
+            ,
+            "TVSP400": 
+                {
+                    "name": "Introduction to Screen Production"
+                }
+            
+        },
+        "Certificate in Emergency Management": {
+            "575211": 
+                {
+                    "name": "Risk Management"
+                }
+            ,
+            "576212": 
+                {
+                    "name": "Disaster Theory"
+                }
+            ,
+            "576210": 
+                {
+                    "name": "Emergency Medical Response"
+                }
+            ,
+            "577214": 
+                {
+                    "name": "Crisis Management"
+                }
+            ,
+            "567412": 
+                {
+                    "name": "Critical Incident Stress Management"
+                }
+            ,
+            "577213": 
+                {
+                    "name": "Emergency Planning"
+                }
+            
+        },
+        "Certificate in Employment Skills English": {
+            "ESOL414": 
+                {
+                    "name": "Listening and Study Skills"
+                }
+            ,
+            "ESOL413": 
+                {
+                    "name": "Oral Communication Skills"
+                }
+            ,
+            "ESOL411": 
+                {
+                    "name": "Reading Skills"
+                }
+            ,
+            "ESOL412": 
+                {
+                    "name": "Written Communication Skills"
+                }
+            
+        },
+        "Certificate in English for Academic Study": {
+            "LSKL503": 
+                {
+                    "name": "Listening and Note-Taking"
+                }
+            ,
+            "LSKL504": 
+                {
+                    "name": "Oral Interaction and Presentation"
+                }
+            ,
+            "LSKL502": 
+                {
+                    "name": "Reading for Academic Purposes"
+                }
+            ,
+            "LSKL501": 
+                {
+                    "name": "Writing and Referencing"
+                }
+            
+        },
+        "Certificate in English Language": {
+            "ESOL410": 
+                {
+                    "name": "Academic English 1"
+                }
+            ,
+            "ESOL406": 
+                {
+                    "name": "Academic English 1, Listening"
+                }
+            ,
+            "ESOL407": 
+                {
+                    "name": "Academic English 1, Reading"
+                }
+            ,
+            "ESOL408": 
+                {
+                    "name": "Academic English 1, Writing"
+                }
+            ,
+            "ESOL400": 
+                {
+                    "name": "Introduction to Academic English"
+                }
+            ,
+            "ESOL402": 
+                {
+                    "name": "Introduction to Academic English, Listening"
+                }
+            ,
+            "ESOL403": 
+                {
+                    "name": "Introduction to Academic English, Reading"
+                }
+            ,
+            "ESOL401": 
+                {
+                    "name": "Introduction to Academic English, Speaking"
+                }
+            ,
+            "ESOL404": 
+                {
+                    "name": "Introduction to Academic English, Writing"
+                }
+            ,
+            "ESOL505": 
+                {
+                    "name": "Academic English 2, A1"
+                }
+            ,
+            "ESOL506": 
+                {
+                    "name": "Academic English 2, A2"
+                }
+            ,
+            "ESOL502": 
+                {
+                    "name": "Academic English 2, Listening"
+                }
+            ,
+            "ESOL503": 
+                {
+                    "name": "Academic English 2, Reading"
+                }
+            ,
+            "ESOL501": 
+                {
+                    "name": "Academic English 2, Speaking"
+                }
+            ,
+            "ESOL504": 
+                {
+                    "name": "Academic English 2, Writing"
+                }
+            ,
+            "ESOL510": 
+                {
+                    "name": "Academic English 3"
+                }
+            ,
+            "ESOL513": 
+                {
+                    "name": "Academic English 3, Reading"
+                }
+            ,
+            "ESOL511": 
+                {
+                    "name": "Academic English 3, Speaking"
+                }
+            ,
+            "ESOL514": 
+                {
+                    "name": "Academic English 3, Writing"
+                }
+            
+        },
+        "Certificate in Foundation Studies": {
+            "883162": 
+                {
+                    "name": "Accounting I"
+                }
+            ,
+            "883166": 
+                {
+                    "name": "Accounting II"
+                }
+            ,
+            "883001": 
+                {
+                    "name": "English I"
+                }
+            ,
+            "883120": 
+                {
+                    "name": "Macroeconomics"
+                }
+            ,
+            "883183": 
+                {
+                    "name": "Microeconomics"
+                }
+            ,
+            "883003": 
+                {
+                    "name": "Tertiary Study Skills"
+                }
+            ,
+            "ENGL480": 
+                {
+                    "name": "Academic English for Tertiary Study"
+                }
+            ,
+            "884007": 
+                {
+                    "name": "Design Contexts"
+                }
+            ,
+            "884005": 
+                {
+                    "name": "Design Studio"
+                }
+            ,
+            "884006": 
+                {
+                    "name": "Drawing"
+                }
+            ,
+            "884002": 
+                {
+                    "name": "English II"
+                }
+            ,
+            "884003": 
+                {
+                    "name": "Modern New Zealand History"
+                }
+            
+        },
+        "Certificate in Health Care Support": {
+            "554101": 
+                {
+                    "name": "Dental Surgery Management"
+                }
+            ,
+            "554412": 
+                {
+                    "name": "Introduction to Academic Enquiry"
+                }
+            ,
+            "554100": 
+                {
+                    "name": "Introduction to Dental Sciences"
+                }
+            ,
+            "554696": 
+                {
+                    "name": "Introduction To Human Development"
+                }
+            ,
+            "554416": 
+                {
+                    "name": "Introduction to Human Structure and Function"
+                }
+            ,
+            "554103": 
+                {
+                    "name": "Introduction to Oral Health in New Zealand"
+                }
+            ,
+            "554102": 
+                {
+                    "name": "Kai Totika Korikori Tinana (Maori Nutrition & Physical Activity)"
+                }
+            ,
+            "554417": 
+                {
+                    "name": "Society and Health"
+                }
+            
+        },
+        "Certificate in Health Studies": {
+            "554418": 
+                {
+                    "name": "Foundation in Psychology"
+                }
+            ,
+            "554412": 
+                {
+                    "name": "Introduction to Academic Enquiry"
+                }
+            ,
+            "554420": 
+                {
+                    "name": "Introduction To Health and Lifestyle"
+                }
+            ,
+            "554415": 
+                {
+                    "name": "Introduction To Health Promotion"
+                }
+            ,
+            "554696": 
+                {
+                    "name": "Introduction To Human Development"
+                }
+            ,
+            "554416": 
+                {
+                    "name": "Introduction to Human Structure and Function"
+                }
+            ,
+            "554426": 
+                {
+                    "name": "Introduction To Human Structure and Function II"
+                }
+            ,
+            "554102": 
+                {
+                    "name": "Kai Totika Korikori Tinana (Maori Nutrition & Physical Activity)"
+                }
+            ,
+            "554417": 
+                {
+                    "name": "Society and Health"
+                }
+            
+        },
+        "Certificate in Hospitality and Tourism": {
+            "TOUR401": 
+                {
+                    "name": "Exploring Tourism"
+                }
+            ,
+            "FINA401": 
+                {
+                    "name": "Financial Operations for Hospitality and Tourism"
+                }
+            ,
+            "HOSP403": 
+                {
+                    "name": "Hospitality: An Applied Perspective"
+                }
+            ,
+            "HOSP402": 
+                {
+                    "name": "Introduction to Customer Service Management"
+                }
+            ,
+            "EVNT401": 
+                {
+                    "name": "Introduction to Event Management"
+                }
+            ,
+            "HOSP401": 
+                {
+                    "name": "Introduction to Hospitality, Tourism and Events"
+                }
+            ,
+            "SOSC480": 
+                {
+                    "name": "Living in Aotearoa New Zealand"
+                }
+            ,
+            "LSKL402": 
+                {
+                    "name": "Tertiary English and Academic Literacies"
+                }
+            ,
+            "LSKL403": 
+                {
+                    "name": "Tertiary English and Critical Thinking"
+                }
+            ,
+            "TIKA501": 
+                {
+                    "name": "Noho Marae Wananga Maori Learning Experience A"
+                }
+            ,
+            "TIKA502": 
+                {
+                    "name": "Noho Marae Wananga Maori Learning Experience B"
+                }
+            
+        },
+        "Certificate in Legal Studies": {},
+        "Certificate in Pharmacy (Technician)": {
+            "554834": 
+                {
+                    "name": "Assisting and Advising Clients I"
+                }
+            ,
+            "554833": 
+                {
+                    "name": "Assisting and Advising Clients II"
+                }
+            ,
+            "554832": 
+                {
+                    "name": "Customer Inquiries and Transactions"
+                }
+            ,
+            "554331": 
+                {
+                    "name": "Health and Wellbeing"
+                }
+            ,
+            "555836": 
+                {
+                    "name": "Compounding"
+                }
+            ,
+            "555321": 
+                {
+                    "name": "Human Structure and Function"
+                }
+            ,
+            "555835": 
+                {
+                    "name": "Processing Prescriptions"
+                }
+            ,
+            "555837": 
+                {
+                    "name": "Professional Practice"
+                }
+            
+        },
+        "Certificate in Practical Patisserie": {
+            "214320": 
+                {
+                    "name": "Basic Cold Desserts"
+                }
+            ,
+            "PATS408": 
+                {
+                    "name": "Basic Cold Desserts"
+                }
+            ,
+            "214319": 
+                {
+                    "name": "Basic Hot Desserts"
+                }
+            ,
+            "PATS407": 
+                {
+                    "name": "Basic Hot Desserts"
+                }
+            ,
+            "214330": 
+                {
+                    "name": "Foundation Breads"
+                }
+            ,
+            "PATS405": 
+                {
+                    "name": "Foundation Breads"
+                }
+            ,
+            "214329": 
+                {
+                    "name": "Foundation Cakes"
+                }
+            ,
+            "PATS402": 
+                {
+                    "name": "Foundation Cakes"
+                }
+            ,
+            "214328": 
+                {
+                    "name": "Foundation Pastries"
+                }
+            ,
+            "PATS401": 
+                {
+                    "name": "Foundation Pastries"
+                }
+            ,
+            "214324": 
+                {
+                    "name": "Patisserie Related Studies"
+                }
+            ,
+            "PATS404": 
+                {
+                    "name": "Patisserie Related Studies"
+                }
+            ,
+            "214359": 
+                {
+                    "name": "Professional Experience"
+                }
+            ,
+            "PATS406": 
+                {
+                    "name": "Professional Experience"
+                }
+            ,
+            "214325": 
+                {
+                    "name": "Sponges, Gateaux and Torten"
+                }
+            ,
+            "PATS403": 
+                {
+                    "name": "Sponges, Gateaux and Torten"
+                }
+            
+        },
+        "Certificate in Science and Technology": {
+            "720001": 
+                {
+                    "name": "Skills Workshop"
+                }
+            ,
+            "LSKL401": 
+                {
+                    "name": "Academic Literacies"
+                }
+            ,
+            "MATH401": 
+                {
+                    "name": "Foundation Algebra"
+                }
+            ,
+            "MATH402": 
+                {
+                    "name": "Foundation Calculus"
+                }
+            ,
+            "ARDN400": 
+                {
+                    "name": "Foundation Design Principles"
+                }
+            ,
+            "DESN400": 
+                {
+                    "name": "Foundation Design Principles"
+                }
+            ,
+            "ARDN401": 
+                {
+                    "name": "Foundation Design Technologies"
+                }
+            ,
+            "DESN401": 
+                {
+                    "name": "Foundation Design Technologies"
+                }
+            ,
+            "MATH400": 
+                {
+                    "name": "Foundation Mathematics"
+                }
+            ,
+            "MATH403": 
+                {
+                    "name": "Foundation Maths and Design"
+                }
+            ,
+            "PHYS400": 
+                {
+                    "name": "Foundation Physics A"
+                }
+            ,
+            "PHYS401": 
+                {
+                    "name": "Foundation Physics B"
+                }
+            ,
+            "COMP401": 
+                {
+                    "name": "Foundation Problem Solving"
+                }
+            ,
+            "COMP400": 
+                {
+                    "name": "Foundation Programming"
+                }
+            ,
+            "STAT400": 
+                {
+                    "name": "Foundation Statistics"
+                }
+            ,
+            "ENGE400": 
+                {
+                    "name": "Introduction to Engineering"
+                }
+            ,
+            "LSKL403": 
+                {
+                    "name": "Tertiary English and Critical Thinking"
+                }
+            
+        },
+        "Certificate in Social Sciences": {
+            "LSKL401": 
+                {
+                    "name": "Academic Literacies"
+                }
+            ,
+            "SOSC482": 
+                {
+                    "name": "Aotearoa and Pasifika Studies"
+                }
+            ,
+            "ECON480": 
+                {
+                    "name": "Economics and Society"
+                }
+            ,
+            "CRIM400": 
+                {
+                    "name": "Exploring Criminal Justice"
+                }
+            ,
+            "CONF400": 
+                {
+                    "name": "Giving Peace a Chance"
+                }
+            ,
+            "COMM401": 
+                {
+                    "name": "Introduction to Academic Writing"
+                }
+            ,
+            "PSYC480": 
+                {
+                    "name": "Journey Through the Mind"
+                }
+            ,
+            "SOSC480": 
+                {
+                    "name": "Living in Aotearoa New Zealand"
+                }
+            ,
+            "SOSC481": 
+                {
+                    "name": "Navigating the Data Jungle"
+                }
+            ,
+            "POLS480": 
+                {
+                    "name": "People Power: Having Your Say"
+                }
+            ,
+            "LSKL403": 
+                {
+                    "name": "Tertiary English and Critical Thinking"
+                }
+            ,
+            "COMM590": 
+                {
+                    "name": "Communication and Presentation Systems"
+                }
+            ,
+            "HIST500": 
+                {
+                    "name": "Introduction to New Zealand History"
+                }
+            
+        },
+        "Certificate in Sport and Recreation": {
+            "SPEX402": 
+                {
+                    "name": "Fitness Foundations"
+                }
+            ,
+            "SPOR406": 
+                {
+                    "name": "Health and Wellbeing"
+                }
+            ,
+            "HEAL404": 
+                {
+                    "name": "Introduction to Human Development"
+                }
+            ,
+            "HEAL402": 
+                {
+                    "name": "Introduction to Human Structure and Function"
+                }
+            ,
+            "HEAL405": 
+                {
+                    "name": "Introduction to Professional Development"
+                }
+            ,
+            "SPOR404": 
+                {
+                    "name": "Introduction to Sporting Practice (Specialty)"
+                }
+            ,
+            "HEAL401": 
+                {
+                    "name": "Medical Terminology"
+                }
+            ,
+            "NUTR401": 
+                {
+                    "name": "Pacific Nutrition - Healthy Eating"
+                }
+            ,
+            "NUTR402": 
+                {
+                    "name": "Pacific Nutrition - Healthy Lifestyles"
+                }
+            ,
+            "NUTR403": 
+                {
+                    "name": "Pacific Nutrition - Life-course Nutrition"
+                }
+            ,
+            "SPOR408": 
+                {
+                    "name": "Realising Potential"
+                }
+            ,
+            "HEAL403": 
+                {
+                    "name": "Society and Health "
+                }
+            ,
+            "SPOR407": 
+                {
+                    "name": "The Business of Sport and Recreation"
+                }
+            ,
+            "SPEX508": 
+                {
+                    "name": "Fitness Instructing"
+                }
+            ,
+            "SPEX506": 
+                {
+                    "name": "Personal Training"
+                }
+            ,
+            "SPOR516": 
+                {
+                    "name": "Survive and Succeed in Sport and Recreation"
+                }
+            
+        },
+        "Certificate of Proficiency": {
+            "ARDN636": 
+                {
+                    "name": "Photography"
                 }
             
         }
