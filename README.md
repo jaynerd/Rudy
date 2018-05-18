@@ -1,5 +1,11 @@
 "# Rudy" 
 
+This is a DevKit for Rudy
+
+The final product will be uploaded to another repo
+
+called Rudy
+
 Rudy is an AUT Academic Advising ChatBot
 
 Main Framework: Dialogflow </br>
