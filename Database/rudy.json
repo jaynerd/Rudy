@@ -63605,5 +63605,154 @@
         "ARDN636": {
             "name": "Photography"
         }
-    }
+    },
+	
+	"majors": {
+		"Analytics": {
+			"Year 1": {
+				"papers": {
+					"COMM501": {
+						"name": "Applied Communication"
+					},
+					"COMP500": {
+						"name": "Programming 1"
+					},
+					"COMP501": {
+						"name": "Computing Technology in Society"
+					},
+					"COMP502": {
+						"name": "Foundations of IT Infrastructure"
+					},
+					"COMM503": {
+						"name": "Programming 2"
+					},
+					"ENEL504": {
+						"name": "Computer Network Principles"
+					},
+					"INFS500": {
+						"name": "Enterprise Systems"
+					}
+				},
+				"options": {
+					"MATH500": {
+						"name": "Mathmatical Concepts"
+					},
+					"MATH501": {
+						"name": "Differential and Integral Calculus"
+					},
+					"MATH502": {
+						"name": "Algebra and Discrete Mathmatics"
+					},
+					"STAT500": {
+						"name": "Applied Statistics"
+					}
+				},
+				"electives": {
+					"COMP505": {
+						"name": "Introduction to Programming"
+					},
+					"ENSE501": {
+						"name": "Programming for Engineering Applications"
+					},
+					"ENSE502": {
+						"name": "Object Oriented Applications"
+					}
+				}
+			},
+			"Year 2": {
+				"papers": {
+					"COMP600": {
+						"name": "IT Project Management"
+					},
+					"INFS600": {
+						"name": "Data and Process Modelling"
+					},
+					"STAT600": {
+						"name": "Probability"
+					},
+					"STAT601": {
+						"name": "Statistical Methods"
+					}
+				},
+				"options": {
+					"INFS601": {
+						"name": "Logical Database Design"
+					},
+					"STAT603": {
+						"name": "Forecasting"
+					}
+				},
+				"electives": {
+					"COMP612": {
+						"name": "Computer Graphics Programming"
+					},
+					"MATH604": {
+						"name": "Mathmatics of Finance"
+					}
+				}
+			},
+			"Year 3": {
+				"papers": {
+					"COMP704": {
+						"name": "Research and Development Project"
+					},
+					"STAT700": {
+						"name": "Applied Stochastic Models"
+					},
+					"STAT702": {
+						"name": "Industrial and Business Analytics"
+					}
+				},
+				"options": {
+					"COMP723": {
+						"name": "Data Mining and Knowledge Engineering"
+					},
+					"STAT701": {
+						"name": "Statistical Computing with SAS"
+					}
+				},
+				"electives": {
+					"COMP705": {
+						"name": "Special Topic"
+					},
+					"COMP710": {
+						"name": "Game Programming"
+					},
+					"COMP716": {
+						"name": "Highly Secure Systems"
+					},
+					"COMP720": {
+						"name": "IT Project Practice"
+					},
+					"COMP724": {
+						"name": "Health Informatics"
+					},
+					"INFS700": {
+						"name": "Needs Anaysis and Acquisition"
+					}
+				}
+			}
+        },
+		 "Computational Intelligence": {
+            "name": "EdD Research Portfolio Part II"
+        },
+        "Computer Science": {
+            "name": "EdD Research Portfolio Part III"
+        },
+        "IT Service Science": {
+            "name": "EdD Research Portfolio Part IV"
+        },
+        "Networks and Security": {
+            "name": "Human Anatomy and Physiology II",
+            "prerequisites": [
+                "HEAL505"
+            ]
+        },
+		"Software Development": {
+            "name": "Human Anatomy and Physiology II",
+            "prerequisites": [
+                "HEAL505"
+            ]
+        }
+	}
 }
