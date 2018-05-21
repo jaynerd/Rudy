@@ -1,104 +1,150 @@
 #!/usr/bin/env python
 
+# Importing os to access core libraries of Heroku including secured
+# config vars.
 import os
-import re
+
+# Importing json to manage communication contents in the acceptable
+# json format.
 import json
+
+# Importing firebase_admin to authenticate server's Firebase database
+# access.
 import firebase_admin
 
+# credentials will be used to confirm identification of the service
+# key provided in Heroku's config vars.
 from firebase_admin import credentials
+
+# db will be the main database that Rudy will be accessing.
 from firebase_admin import db
+
+# Flask package will manage flow of communications between the server
+# and client.
+# 1. jsonify will be used for translating Rudy's response into
+# an acceptable json format.
+# 2. make_response will pass the text response
+# from Heroku app (Rudy) to client's Dialogflow view.
+# 3. request components contains json format messages from the client
+# side (input).
 from flask import Flask, jsonify, make_response, request
 
+# Starting flask app in global layout.
 app = Flask(__name__)
+
+# Database url (Firebase).
 db_url = {'databaseURL': 'https://rudy-b5e54.firebaseio.com'}
 
+# Secured service account key json from Heroku's config vars.
+key = {"type": os.environ['type'],
+       "project_id": os.environ['project_id'],
+       "private_key_id": os.environ['private_key_id'],
+       "private_key": os.environ['private_key'].replace('\\n', '\n'),
+       "client_email": os.environ['client_email'],
+       "client_id": os.environ['client_id'],
+       "auth_uri": os.environ['auth_uri'],
+       "token_uri": os.environ['token_uri'],
+       "auth_provider_x509_cert_url": os.environ['auth_provider_x509_cert_url'],
+       "client_x509_cert_url": os.environ['client_x509_cert_url']}
 
-def authenticate():
-    key = {
-        "type": os.environ['type'],
-        "project_id": os.environ['project_id'],
-        "private_key_id": os.environ['private_key_id'],
-        "private_key": os.environ['private_key'].replace('\\n', '\n'),
-        "client_email": os.environ['client_email'],
-        "client_id": os.environ['client_id'],
-        "auth_uri": os.environ['auth_uri'],
-        "token_uri": os.environ['token_uri'],
-        "auth_provider_x509_cert_url": os.environ['auth_provider_x509_cert_url'],
-        "client_x509_cert_url": os.environ['client_x509_cert_url']}
-
-    return key
-
-
-key = authenticate()
+# Authentication process into Firebase.
+print('Rudy (Firebase): Connecting to Firebase.')
 cred = credentials.Certificate(key)
-firebase_admin.initialize_app(cred, db_url)
+firebase = firebase_admin.initialize_app(cred, db_url)
+print(firebase)
+print('Rudy (Firebase): Firebase access granted.')
+
+# Generating database references.
+db_requisites = db.reference('requisites')
 
 
+# The fulfillment webhook settings in Dialogflow should have a url
+# that ends with '/webhook'. For example, if an Heroku app has a url of
+# rudybot.app, the finalized Dialogflow's fulfillment webhook integration
+# address should be 'rudybot.app/webhook'. Upon generating a successful
+# server-client connection, the client request will be routed to the
+# webhook function below.
 @app.route('/webhook', methods=['POST'])
 def webhook():
+    # Get a request from client then print.
     req = request.get_json(silent=True, force=True)
-    print('Request from client:')
+    print('Rudy (Flask): Request received ->')
     print(json.dumps(req, indent=4))
 
-    res = str(process_request(req))
-    print('Response from Rudy:')
-    print(res)
+    # Process the request to get a response.
+    res = process_request(req)
 
-    return make_response(jsonify({'fulfillmentText': res}))
+    # Returning acquired response in json format to the client's
+    # Dialogflow view.
+    return make_response(res)
 
 
+# Sorting out client's request then forward to a matching function based
+# on the action parameter of the request's intent.
 def process_request(req):
-    print('Started processing the received request.')
-    res: object
+    print('Rudy (Heroku): Request processing started.')
+
+    # Request sorting process.
+    result: str
     if req['queryResult'].get('action') == 'getPaperRequisites':
-        db_requisites = db.reference('requisites')
-        res = get_paper_requisites(req, db_requisites)
-    print(res)
-    return res
+        result = get_paper_requisites(req)
+
+    # Show the response log before jsonify.
+    print('Rudy (Heroku): Generated response ->')
+    print(result)
+
+    # Returning the result in the acceptable json format.
+    return jsonify({'fulfillmentText': result})
 
 
-def get_paper_requisites(req, db_requisites):
-    res: object
+# Get required parameters from the request for a database query.
+def get_paper_requisites(req):
+    print('Rudy (Flask): Extracting required parameters.')
+
+    # Getting parameters.
+    speech = ''
     paper = req['queryResult']['parameters'].get('paper')
-    requisite = req['queryResult']['parameters'].get('requisite')
-    requisite1 = ''
-    if req['queryResult']['parameters'].get('requisite1'):
-        requisite1 = req['queryResult']['parameters'].get('requisite1')
-    print('Requisites query created.')
-    requisites_query = make_requisites_query(db_requisites, paper, requisite, requisite1)
-    if requisites_query is None:
-        print('Requisites query is empty.')
-    res = requisites_query
-    print(res)
-    return res
+    requisites = [req['queryResult']['parameters'].get('requisite'),
+                  req['queryResult']['parameters'].get('requisite1')]
+
+    # Query creation.
+    print('Rudy (Heroku): Requisites query created.')
+    requisites_query = make_requisites_query(paper, requisites)
+
+    # Parsing query results into a speech format.
+    counter = 0
+    for result in requisites_query:
+        if result is None:
+            print('Rudy (Firebase): Requisites query is empty.')
+            speech += 'There are no ' + requisites[counter] + ' for paper: ' + paper + ". "
+        else:
+            print('Rudy (Firebase): Parsing query results.')
+            speech += 'The list of ' + requisites[counter] + ' are: ' + str(result).strip('[]') + ". "
+        counter += 1
+
+    # Returning the speech contexts.
+    return speech
 
 
-def make_requisites_query(db_requisites, paper, requisite, requisite1):
-    speech: str
-    requisite_result = db_requisites.child(paper).child(requisite).get()
+# Get requisite data source from Firebase based on the request parameters.
+def make_requisites_query(paper, requisites):
+    print('Rudy (Firebase): Accessing to the database.')
 
-    if requisite_result is None:
-        print(requisite_result)
-        # requisite_result='No '+requisite+' are exist.'
-    else:
-        # requisite_result="The list of "+requisite+" are"+str(requisite_result)
-        print(requisite_result)
+    # Making a list of query results for multiple requisite parameters.
+    query_result = [db_requisites.child(paper).child(requisites[0]).get()]
 
-    # requisite1_result: str
-    # if requisite1 is not '':
-    #     requisite1_result = db_requisites.child(paper).child(requisite1).get()
-    #     if requisite1_result is None:
-    #         print(requisite1_result)
-    #     else:
-    #         print(requisite1_result)
+    # If client asks about two different types of requite parameters.
+    if requisites[1] is not '' and requisites[0] is not requisites[1]:
+        query_result.append(db_requisites.child(paper).child(requisites[1]).get())
 
-    return requisite_result
-
-    # print(db.reference('degrees').child('Bachelor of Applied Science').get())
+    # Returning collected query results.
+    return query_result
 
 
+# Initializing the app to server connection (hosting).
 if __name__ == '__main__':
-    # Set default PORT value as 5000, a pre-defined value can be used also.
+    # Setting the default port to 5000. Other defined values can be
+    # used as an alternative.
     port = int(os.getenv('PORT', 5000))
-    print('Starting Rudy on port %d' % port)
+    print('Rudy (Heroku): Starting Rudy on port %d' % port)
     app.run(debug=True, port=port, host='0.0.0.0')
