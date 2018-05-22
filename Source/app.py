@@ -131,11 +131,11 @@ def get_paper_requisites(req):
         if result is None:
             print('Rudy (Firebase): Requisites query is empty.')
             speech += 'There are no ' + requisites[counter] + ' for paper: ' \
-                      + paper + ". "
+                      + paper + '. '
         else:
             print('Rudy (Firebase): Parsing query results.')
             speech += 'The list of ' + requisites[counter] + ' are: ' \
-                      + str(result).strip('[]') + ". "
+                      + str(result).strip('[]') + '. '
         counter += 1
 
     # Returning the speech contexts.
@@ -158,13 +158,13 @@ def get_major_details(req):
     counter = 1
     for result in details_query:
         if result is None:
-            print('Rudy (Firebase): Requisites query is empty.')
-            speech += 'There are no ' + requisites[counter] + ' for paper: ' \
-                      + paper + ". "
+            print('Rudy (Firebase): Major details query is empty.')
+            speech += 'There are no Year ' + str(counter) + ' courses for ' \
+                      + major + ' major. '
         else:
             print('Rudy (Firebase): Parsing query results.')
-            speech += 'The list of ' + requisites[counter] + ' are: ' \
-                      + str(result).strip('[]') + ". "
+            speech += 'The list of suggested courses for Year ' + str(counter) \
+                      + ' are: ' + str(result).strip('[]') + '. '
         counter += 1
 
     # Returning the speech contexts.
@@ -196,11 +196,9 @@ def make_details_query(major):
     print('Rudy (Firebase): Accessing to the database.')
 
     # Making a list of query results for multiple year details for the major.
-    query_result = []
-    first_year = [db_majors.child(major).child('Year1').get()]
-    second_year = [db_majors.child(major).child('Year2').get()]
-    third_year = [db_majors.child(major).child('Year3').get()]
-    query_result.append(first_year, second_year, third_year)
+    query_result = [[db_majors.child(major).child('Year 1').get()],
+                    [db_majors.child(major).child('Year 2').get()],
+                    [db_majors.child(major).child('Year 3').get()]]
 
     # Returning collected query results.
     return query_result

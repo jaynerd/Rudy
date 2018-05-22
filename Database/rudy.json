@@ -63610,149 +63610,362 @@
 	"majors": {
 		"Analytics": {
 			"Year 1": {
-				"papers": {
-					"COMM501": {
-						"name": "Applied Communication"
-					},
-					"COMP500": {
-						"name": "Programming 1"
-					},
-					"COMP501": {
-						"name": "Computing Technology in Society"
-					},
-					"COMP502": {
-						"name": "Foundations of IT Infrastructure"
-					},
-					"COMM503": {
-						"name": "Programming 2"
-					},
-					"ENEL504": {
-						"name": "Computer Network Principles"
-					},
-					"INFS500": {
-						"name": "Enterprise Systems"
-					}
-				},
-				"options": {
-					"MATH500": {
-						"name": "Mathmatical Concepts"
-					},
-					"MATH501": {
-						"name": "Differential and Integral Calculus"
-					},
-					"MATH502": {
-						"name": "Algebra and Discrete Mathmatics"
-					},
-					"STAT500": {
-						"name": "Applied Statistics"
-					}
-				},
-				"electives": {
-					"COMP505": {
-						"name": "Introduction to Programming"
-					},
-					"ENSE501": {
-						"name": "Programming for Engineering Applications"
-					},
-					"ENSE502": {
-						"name": "Object Oriented Applications"
-					}
-				}
+				"core": [
+					"COMM501",
+					"COMP500",
+					"COMP501",
+					"COMP502",
+					"COMM503",
+					"ENEL504",
+					"INFS500"
+				],
+				"options": [
+					"MATH500",
+					"MATH501",
+					"MATH502",
+					"STAT500"
+				],
+				"electives": [
+					"COMP505",
+					"ENSE501",
+					"ENSE502"
+				]
 			},
 			"Year 2": {
-				"papers": {
-					"COMP600": {
-						"name": "IT Project Management"
-					},
-					"INFS600": {
-						"name": "Data and Process Modelling"
-					},
-					"STAT600": {
-						"name": "Probability"
-					},
-					"STAT601": {
-						"name": "Statistical Methods"
-					}
-				},
-				"options": {
-					"INFS601": {
-						"name": "Logical Database Design"
-					},
-					"STAT603": {
-						"name": "Forecasting"
-					}
-				},
-				"electives": {
-					"COMP612": {
-						"name": "Computer Graphics Programming"
-					},
-					"MATH604": {
-						"name": "Mathmatics of Finance"
-					}
-				}
+				"core": [
+					"COMP600",
+					"INFS600",
+					"STAT600",
+					"STAT601"
+				],
+				"options": [
+					"INFS601",
+					"STAT603"
+				],
+				"electives": [
+					"COMP612",
+					"MATH604"
+				]
 			},
 			"Year 3": {
-				"papers": {
-					"COMP704": {
-						"name": "Research and Development Project"
-					},
-					"STAT700": {
-						"name": "Applied Stochastic Models"
-					},
-					"STAT702": {
-						"name": "Industrial and Business Analytics"
-					}
-				},
-				"options": {
-					"COMP723": {
-						"name": "Data Mining and Knowledge Engineering"
-					},
-					"STAT701": {
-						"name": "Statistical Computing with SAS"
-					}
-				},
-				"electives": {
-					"COMP705": {
-						"name": "Special Topic"
-					},
-					"COMP710": {
-						"name": "Game Programming"
-					},
-					"COMP716": {
-						"name": "Highly Secure Systems"
-					},
-					"COMP720": {
-						"name": "IT Project Practice"
-					},
-					"COMP724": {
-						"name": "Health Informatics"
-					},
-					"INFS700": {
-						"name": "Needs Anaysis and Acquisition"
-					}
-				}
+				"core": [
+					"COMP704",
+					"STAT700",
+					"STAT702"
+				],
+				"options": [
+					"COMP723",
+					"STAT701"
+				],
+				"electives": [
+					"COMP705",
+					"COMP710",
+					"COMP716",
+					"COMP720",
+					"COMP724",
+					"INFS700"
+				]
 			}
         },
 		 "Computational Intelligence": {
-            "name": "EdD Research Portfolio Part II"
+            "Year 1": {
+				"core": [
+					"COMM501",
+					"COMP500",
+					"COMP501",
+					"COMP502",
+					"COMP503",
+					"ENEL504",
+					"INFS500"
+				],
+				"options": [
+					"MATH500",
+					"MATH501",
+					"MATH502",
+					"STAT500"
+				],
+				"electives": [
+					"COMP505",
+					"ENSE501",
+					"ENSE502"
+				]
+			},
+			"Year 2": {
+				"core": [
+					"COMP600",
+					"COMP606",
+					"INFS600",
+					"INFS601",
+					"STAT601"
+				],
+				"options": [
+					"COMP610",
+					"INFS602"
+				],
+				"electives": [
+					"COMP612",
+					"MATH604"
+				]
+			},
+			"Year 3": {
+				"core": [
+					"COMP704",
+					"COMP717",
+					"COMP723"
+				],
+				"options": [
+					"COMP700",
+					"COMP701"
+				],
+				"electives": [
+					"COMP705",
+					"COMP710",
+					"COMP716",
+					"COMP720",
+					"COMP724",
+					"INFS700"
+				]
+			}
         },
         "Computer Science": {
-            "name": "EdD Research Portfolio Part III"
+            "Year 1": {
+				"core": [
+					"COMM501",
+					"COMP500",
+					"COMP501",
+					"COMP502",
+					"COMP503",
+					"ENEL504",
+					"INFS500"
+				],
+				"options": [
+					"MATH500",
+					"MATH501",
+					"MATH502",
+					"STAT500"
+				],
+				"electives": [
+					"COMP505",
+					"ENSE501",
+					"ENSE502"
+				]
+			},
+			"Year 2": {
+				"core": [
+					"COMP600",
+					"COMP610",
+					"COMP611",
+					"INSF600",
+					"INFS601"
+				],
+				"options": [
+					"COMP604",
+					"COMP613"
+				],
+				"electives": [
+					"COMP612",
+					"MATH604"
+				]
+			},
+			"Year 3": {
+				"core": [
+					"COMP704",
+					"COMP711",
+					"COMP712"
+				],
+				"options": [
+					"COMP713",
+					"COMP717"
+				],
+				"electives": [
+					"COMP705",
+					"COMP710",
+					"COMP716",
+					"COMP720",
+					"COMP724",
+					"INFS700"
+				]
+			}
         },
         "IT Service Science": {
-            "name": "EdD Research Portfolio Part IV"
+            "Year 1": {
+				"core": [
+					"COMM501",
+					"COMP500",
+					"COMP501",
+					"COMP502",
+					"COMP503",
+					"ENEL504",
+					"INFS500"
+				],
+				"options": [
+					"MATH500",
+					"MATH501",
+					"MATH502",
+					"STAT500"
+				],
+				"electives": [
+					"COMP505",
+					"ENSE501",
+					"ENSE502"
+				]
+			},
+			"Year 2": {
+				"core": [
+					"COMP600",
+					"COMP601",
+					"INFS600",
+					"INFS601",
+					"INFS603"
+				],
+				"options": [
+					"COMP607",
+					"COMP609"
+				],
+				"electives": [
+					"COMP612",
+					"MATH604"
+				]
+			},
+			"Year 3": {
+				"core": [
+					"COMP704",
+					"INFS701",
+					"INFS702"
+				],
+				"options": [
+					"COMP718",
+					"INFS703"
+				],
+				"electives": [
+					"COMP705",
+					"COMP710",
+					"COMP716",
+					"COMP720",
+					"COMP724",
+					"INFS700"
+				]
+			}
         },
         "Networks and Security": {
-            "name": "Human Anatomy and Physiology II",
-            "prerequisites": [
-                "HEAL505"
-            ]
+            "Year 1": {
+				"core": [
+					"COMM501",
+					"COMP500",
+					"COMP501",
+					"COMP502",
+					"COMP503",
+					"ENEL504",
+					"INFS500"
+				],
+				"options": [
+					"MATH500",
+					"MATH501",
+					"MATH502",
+					"STAT500"
+				],
+				"electives": [
+					"COMP505",
+					"ENSE501",
+					"ENSE502"
+				]
+			},
+			"Year 2": {
+				"core": [
+					"COMP600",
+					"COMP609",
+					"ENEL611",
+					"INFS600",
+					"INFS601"
+				],
+				"options": [
+					"COMP604",
+					"INFS602"
+				],
+				"electives": [
+					"COMP612",
+					"MATH604"
+				]
+			},
+			"Year 3": {
+				"core": [
+					"COMP704",
+					"COMP714",
+					"COMP715"
+				],
+				"options": [
+					"COMP713",
+					"COMP718"
+				],
+				"electives": [
+					"COMP705",
+					"COMP710",
+					"COMP716",
+					"COMP720",
+					"COMP724",
+					"INFS700"
+				]
+			}
         },
 		"Software Development": {
-            "name": "Human Anatomy and Physiology II",
-            "prerequisites": [
-                "HEAL505"
-            ]
+            "Year 1": {
+				"core": [
+					"COMM501",
+					"COMP500",
+					"COMP501",
+					"COMP502",
+					"COMP503",
+					"ENEL504",
+					"INFS500"
+				],
+				"options": [
+					"MATH500",
+					"MATH501",
+					"MATH502",
+					"STAT500"
+				],
+				"electives": [
+					"COMP505",
+					"ENSE501",
+					"ENSE502"
+				]
+			},
+			"Year 2": {
+				"core": [
+					"COMP600",
+					"COMP602",
+					"COMP603",
+					"INFS600",
+					"INFS601"
+				],
+				"options": [
+					"COMP604",
+					"INFS602"
+				],
+				"electives": [
+					"COMP612",
+					"MATH604"
+				]
+			},
+			"Year 3": {
+				"core": [
+					"COMP704",
+					"COMP719",
+					"ENSE701"
+				],
+				"options": [
+					"COMP713",
+					"COMP721"
+				],
+				"electives": [
+					"COMP705",
+					"COMP710",
+					"COMP716",
+					"COMP720",
+					"COMP724",
+					"INFS700"
+				]
+			}
         }
 	}
 }
