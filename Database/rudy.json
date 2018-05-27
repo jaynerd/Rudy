@@ -1,12 +1,5 @@
 {
-    "major-list": 
-        ["Analytics",
-        "Computational Intelligence",
-        "Computer Science",
-        "IT Service Science",
-        "Networks and Security",
-        "Software Development"]
-    ,
+
     "degrees": {
         "Doctor of Education": {
             "EDUCX01": 
@@ -63975,5 +63968,13 @@
 				]
 			}
         }
-	}
+	},
+	    "major-list": 
+        ["<Analytics>",
+        "<Computational Intelligence>",
+        "<Computer Science>",
+        "<IT Service Science>",
+        "<Networks and Security>",
+        "<Software Development>"]
+    
 }

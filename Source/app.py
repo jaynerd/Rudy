@@ -60,6 +60,7 @@ print('Rudy (Firebase): Firebase access granted.')
 db_requisites = db.reference('requisites')
 db_majors = db.reference('majors')
 db_major_list = db.reference('major-list')
+db_jobs=db.reference('jobs')
 
 
 # --------------------------------END_REGION GLOBAL-------------------------------- #
@@ -99,6 +100,12 @@ def process_request(req):
         result = get_major_details(req)
     elif req['queryResult'].get('action') == 'getMajorList':
         result = get_major_list(req)
+    elif req['queryResult'].get('action') == 'getJobDetails':
+        result = get_major_list(req)
+    elif req['queryResult'].get('action') == 'getRestrictionDetails':
+        result = get_major_list(req)
+    elif req['queryResult'].get('action') == 'getNextCourse':
+        result = get_next_course(req)
 
     # Show the response log before jsonify.
     print('Rudy (Heroku): Generated response ->')
@@ -195,6 +202,27 @@ def get_major_list(req):
 
     return speech 
 
+def get_next_course(req):
+    print('Rudy (Flask): Extracting required parameters. (majors)')
+
+    # Getting parameters.
+    speech = ''
+    major = req['queryResult']['parameters'].get('major')
+
+    # Query creation.
+    print('Rudy (Heroku): Major details query created.')
+    next_query = make_next_query(major)
+
+    # Parsing query results into a speech format.
+    for result in next_query:
+        if result is None:
+            print('Rudy (Firebase): Major details query is empty.')
+            speech += 'There are no majors.'
+        else:
+            print('Rudy (Firebase): Parsing query results.')
+            speech += 'The majors offered in the BCIS department are: ' + str(result).strip('[]') + '.'
+
+    return speech
 
 # ------------------------------END_REGION PARAMETERS------------------------------ #
 
@@ -232,6 +260,13 @@ def make_majorlist_query(major):
     print('Rudy (Firebase): Accessing to the database.')
 
     query_result = [[db_major_list.get()]]
+
+    return query_result
+
+def make_next_query(major):
+    print('Rudy (Firebase): Accessing to the database.')
+
+    query_result = [[db_majors.get()]]
 
     return query_result
 
